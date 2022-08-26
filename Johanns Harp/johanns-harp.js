@@ -1,5 +1,5 @@
 function main() {
-    var factor = Math.pow(2, 1 / 12); // 12th root
+    const factor = Math.pow(2.0, 1.0 / 12.0); // 12th root
 
     var product = 1.0;
     for (var i = 0; i < 12; i += 1) {

@@ -1,4 +1,5 @@
 function main() {
-    const fullMoonDays = 27;
-    var waterLilies = Math.pow(2, fullMoondays - 1);
+    const daysBetweenAFullMoon = 27;
+    var numberOfWaterLilies = Math.pow(2.0, daysBetweenAFullMoon);
+    console.log(numberOfWaterLilies);
 }
