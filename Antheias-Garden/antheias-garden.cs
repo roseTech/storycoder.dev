@@ -7,7 +7,7 @@ namespace HelloWorld
     static void Main(string[] args)
     {
         const int days = 27;
-        double nOfLilies = Math.Pow(2, days - 1);
+        double nOfLilies = Math.Pow(2, days);
         Console.WriteLine(nOfLilies);
     }
   }
