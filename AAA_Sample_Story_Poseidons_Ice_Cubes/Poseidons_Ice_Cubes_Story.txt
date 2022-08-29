@@ -8,11 +8,13 @@ his drinks last night as much as he usually does; and threw a lot of spare
 ice cubes from the drinks into the sea! Thus, the water got extensively colder; 
 to be more specific it is 11.475 Seidons cold now, which is 14 Seidons colder 
 than normally. Thus today swimming is not allowed. Seidon is the temperature 
-entity of the sea. 1 Seidon devided by 1.37 equal 1 Degree Celsius. 
+unit of the sea. 1 Seidon devided by 1.37 equal 1 Degree Celsius. 
 Print the water temperature in both entities with max two fraction digit 
 with an equation on a normal, ice-cube free day!
 
+
 Tags:
-Coding level: Beginner
-Content Keywords: Greek God, Poseidon, Temperature, Water, Seize The Day
-Genre: Historical Fiction
+Coding Level: Beginner
+Coding Ideas: define digits, division
+Story Content: Greek God, Poseidon, Temperature, Water, Seize The Day
+Story Genre: Historical Fiction
