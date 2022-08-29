@@ -15,9 +15,9 @@ Clojure
 C++
 
 - Web:
-  -https://www.onlinegdb.com/online_c++_compiler/
+  - https://www.onlinegdb.com/online_c++_compiler/
 - Linux Setup: apt install g++
-- Linux Run: g++ file.cpp -o file && ./file
+- Linux Run: g++ story.cpp -o story && ./story
 
 C#
 
@@ -31,8 +31,7 @@ Dart
 
 - Web:
   - https://dartpad.dev/
-- Linux Setup: ???
-- Linux Run: ???
+- Setup: https://dart.dev/get-dart
 
 Go
 
@@ -46,21 +45,21 @@ Java Script
 - Web:
   - https://playcode.io/javascript
 - Linux Setup: apt install nodejs
-- Linux Run: node file.js
+- Linux Run: node story.js
 
 Python
 
 - Web:
   - https://www.onlinegdb.com/online_python_compiler
 - Linux Setup: apt install python3
-- Linux Run: python3 file.py
+- Linux Run: python3 story.py
 
 Rust
 
 - Web:
   - https://www.onlinegdb.com/online_rust_compiler
 - Linux Setup: apt install rustc
-- Linux Run: ???
+- Linux Run: rustc story.rs && ./story
 
 Type Script
 
