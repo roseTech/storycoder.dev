@@ -1,4 +1,4 @@
-ReadMe – Version of 29th August 2022
+ReadMe and Contribution Guidelines – Version of 29th August 2022
 
 --> SEE also website storycoder.dev for easier reading!
 
