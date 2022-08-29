@@ -1,4 +1,4 @@
-The Cruel Teacher
+Cruel Teacher
 
 On a beautiful Friday morning the teacher happily gets her daily latte, the sun shines through her witch like gray hair, 
 and she carries her beloved morning news 📰 paper called ‘cruel teaching methods’. Happy 😊 she is, because today is exam day, 
@@ -9,8 +9,12 @@ they have to increasingly pay a penalty of $7. Ten of her students are late whil
 right after the regular start. The teacher is furious, her hair stands up, with her beloved coffee time beeing constantly interrupted. 
 However, she takes comfort in earning money! Print how much money she will have earned in the end!
 
+
 Tags:
-Level: Beginner
-Coding: Sum up list, loop for
-Register: Comedy
-Story Content: Teacher, coffee, exam, 
+Coding Level: Beginner
+Coding Ideas: sum up list, loop for
+Story Content: Teacher, Coffee, Exam, 
+Story Genre: Comedy 
+
+
+
