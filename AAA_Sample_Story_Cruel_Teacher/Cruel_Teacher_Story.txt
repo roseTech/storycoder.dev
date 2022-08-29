@@ -8,6 +8,7 @@ With herfavorite number being 7, with every passing minute that students come la
 they have to increasingly pay a penalty of $7. Ten of her students are late while dropping in one minute after the other minute 
 right after the regular start. The teacher is furious, her hair stands up, with her beloved coffee time beeing constantly interrupted. 
 However, she takes comfort in earning money! Print how much money she will have earned in the end!
+(LillyCode, creative commons license CC BY-NC-SA)
 
 
 Tags:
