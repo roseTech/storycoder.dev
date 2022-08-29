@@ -22,7 +22,7 @@ C++
 C#
 
 - Web:
- - https://dotnetfiddle.net
+  - https://dotnetfiddle.net
 - Linux Setup:
   - apt install dotnet-sdk-6.0
 - Linux Run: ???
@@ -44,7 +44,7 @@ Go
 Java Script
 
 - Web:
-  - https://ideone.com/l/javascript
+  - https://playcode.io/javascript
 - Linux Setup: apt install nodejs
 - Linux Run: node file.js
 
