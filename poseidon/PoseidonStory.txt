@@ -12,6 +12,7 @@ entity of the sea. 1 Seidon devided by 1.37 equal 1 Degree Celsius.
 Print the water temperature in both entities with max two fraction digit 
 with an equation on a normal, ice-cube free day!
 
-// Tags Coding: Learn doubles, learn strings
-// Tags Story semantics: Ancient Gods, Roman philosophy, 
-// Documentation 
+Tags:
+Coding level: Beginner
+Content: Greek God, Poseidon, Temperature, Water, Seize The Day
+Genre: Historical Fiction
