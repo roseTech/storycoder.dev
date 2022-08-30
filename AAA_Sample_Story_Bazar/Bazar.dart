@@ -9,6 +9,6 @@ main() {
   int finalPrice = elephant + bicycles + sunflower;
 
   int gainOrLoss = finalPrice - initialPrice;
-  print('in the hend the bazar seller has gained $gainOrLoss \$');
-  print('so his idea to change prices was not smart');
+  print('in the end the bazar seller has gained $gainOrLoss \$');
+  print('so his idea to change prices was smart');
 }
