@@ -26,27 +26,7 @@ See stories below:
 
 ### Story 1: Poseidons Ice Cubes 🧊🧊🧊⚓️
 
-It’s boat day today ⛵ with beautiful weather at the sea 🌅 , 
-
-and all is packed to seize the day to the fullest, to ‘carpe diem’ 😃, 
-
-just as famous Roman poet Horace had suggested to do everyday . 
-
-However, for some reason, the mighty water God Poseidon 🔱🧜‍♂ has not enjoyed 
-
-his drinks 🍹 last night as much as he usually does; and threw a lot of spare 
-
-ice cubes from the drinks into the sea 🌊! Thus, the water got extensively colder 🥶; 
-
-to be more specific it is 11.475 Seidons cold now, which is 14 Seidons colder 
-
-than normally. Thus today swimming is not allowed. Seidon is the temperature 
-
-unit of the sea. 1 Seidon devided by 1.37 equals 1 Degree Celsius. 
-
-Print the water temperature 🌡️ in both entities with max two fraction digit 
-
-with an equation on a normal, ice-cube free day!
+It’s boat day today ⛵ with beautiful weather at the sea 🌅, and all is packed to seize the day to the fullest, to ‘carpe diem’ 😃, just as famous Roman poet Horace had suggested to do everyday . However, for some reason, the mighty water God Poseidon 🔱🧜‍♂ has not enjoyed his drinks 🍹 last night as much as he usually does; and threw a lot of spare ice cubes from the drinks into the sea 🌊! Thus, the water got extensively colder 🥶; to be more specific it is 11.475 Seidons cold now, which is 14 Seidons colder than normally. Thus today swimming is not allowed. Seidon is the temperature unit of the sea. 1 Seidon devided by 1.37 equals 1 Degree Celsius. Print the water temperature 🌡️ in both entities with max two fraction digit with an equation on a normal, ice-cube free day! (LillyCode, creative commons license CC BY-NC-SA)
 
 Tags:
 
@@ -69,8 +49,7 @@ void main() {
 
 ### Story 2 Cruel Teacher 🧹📝 
 
-On a beautiful Friday morning the teacher happily gets her daily latte, the sun shines through her witch like gray hair, and she carries her beloved morning news 📰 paper called ‘cruel teaching methods’. Happy 😊 she is, because today is exam day 🗒️, where she soothingly sits in the old wooden chair, sipping coffee ☕️ and reading in an undisturbed way while students sweat through her unconquerable exam. To make sure her morning passes as quietly as planned for her, she enforces strict methods. With her favorite number being 7, with every passing minute that students come late to her computer science exam 💻, they have to increasingly pay a penalty of $7 💸. Ten of her students are late while dropping in one minute after the other minute right after the regular start. The teacher is furious, her hair stands up, with her beloved coffee time beeing constantly interrupted. However, she takes comfort in earning money! Print how much money she will have earned in the end!
-(LillyCode, creative commons license CC BY-NC-SA)
+On a beautiful Friday morning the teacher happily gets her daily latte, the sun shines through her witch like gray hair, and she carries her beloved morning news 📰 paper called ‘cruel teaching methods’. Happy 😊 she is, because today is exam day 🗒️, where she soothingly sits in the old wooden chair, sipping coffee ☕️ and reading in an undisturbed way while students sweat through her unconquerable exam. To make sure her morning passes as quietly as planned for her, she enforces strict methods. With her favorite number being 7, with every passing minute that students come late to her computer science exam 💻, they have to increasingly pay a penalty of $7 💸. Ten of her students are late while dropping in one minute after the other minute right after the regular start. The teacher is furious, her hair stands up, with her beloved coffee time beeing constantly interrupted. However, she takes comfort in earning money! Print how much money she will have earned in the end!(LillyCode, creative commons license CC BY-NC-SA)
 
 Tags:
 - Coding Level: Beginner
@@ -168,6 +147,7 @@ When uploading, make sure to consider the following points:
 ### Code of Conduct
 - While writing stories has a large linguistic and artistic component to it, no stories which contain racism, discrimination of any kind, brutality, etc. are allowed.
 - No stories with explicit names of people are allowed to protect identities
+- This project adopts the Contributor Covenant Code of Conduct. Please read here: https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.txt 
 
 3) Contact Community
 If you have any questions, ideas, feedback, etc. contact others working on this project on the discord server called ‘StoryCoder.dev’. If you don’t have discord yet, you can download it for free on https://discord.com/ .
