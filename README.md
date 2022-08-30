@@ -169,7 +169,7 @@ Clojure
 - Web:
   - https://tryclojure.org/
 - Linux Setup: apt install clojure
-- Linux Run: ???
+- Linux Run: clojure ./story.clj
 
 C++
 
@@ -191,6 +191,11 @@ Dart
 - Web:
   - https://dartpad.dev/
 - Setup: https://dart.dev/get-dart
+
+Erlang
+
+- Web:
+  - https://replit.com/languages/erlang
 
 Go
 
