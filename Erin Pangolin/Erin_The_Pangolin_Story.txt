@@ -5,7 +5,7 @@ Erin was different soul within the world of Pangolin souls. She always knew that
 there was something special about her. All her friends and family where eating
 the whole day and the only thing they talked about was Black ants, Red ants,
 Yellow Meadow ants and and and. Only Laura, her sister, was also somewhat
-different, she loved to steal food from from this smelly, sweating, shouting,
+different, she loved to steal food from this smelly, sweating, shouting,
 ape-like animals. One day Laura told her, that the ape-likes would like to take
 her to a Zoo, and that was it. For Erin, this was not enough and started to
 think about an adventure, no Pangolin ever did. She wanted to reach the highest
@@ -18,6 +18,8 @@ surrounding her, were, Frederic her grand-pa told her: 1335, 1439, 987, 312,
 Between which peak would she reach the fastest speed? It quite likely would be
 the peak where there was the biggest steepness. Which mountain would this be?
 
-Story Tags: Animal, Pangolin, Mountain
-Coding Tags: Loop, Array, Derivative
+Coding Level: beginner
+Coding Ideas: Loop, Array, Derivative
+Story Content: Animal, Pangolin, Mountain
+Story Genre: fiction, family story
 
