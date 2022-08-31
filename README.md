@@ -148,6 +148,7 @@ When uploading, make sure to consider the following points:
 - While writing stories has a large linguistic and artistic component to it, no stories which contain racism, discrimination of any kind, brutality, etc. are allowed.
 - No stories with explicit names of people are allowed to protect identities
 - This project adopts the Contributor Covenant Code of Conduct. Please read here: https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.txt 
+- In case of breach of code of conduct, report to info((att))storycoder.dev. 
 
 3) Contact Community
 If you have any questions, ideas, feedback, etc. contact others working on this project on the discord server called ‘StoryCoder.dev’. If you don’t have discord yet, you can download it for free on https://discord.com/ .
