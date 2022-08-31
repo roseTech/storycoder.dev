@@ -1,4 +1,6 @@
-The version 1 of the story below contains no code to be solved yet. This is why it is located here in the folder ‘AAA_Stories_Without_Implemented_Code_Yet. This folder is used for coders to implement some coding into the story. 
+The version 1 of the story below contains no code to solve yet. 
+This is why it is located here in the folder ‘AAA_Stories_Without_Implemented_Code_Yet. 
+This folder is used for coders to implement some coding into the story. How is this done?
 The version 2 of the story below shows, for example, how a coding problem can be implemented. 
 
 Version 1 without code
