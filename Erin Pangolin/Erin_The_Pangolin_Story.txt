@@ -18,6 +18,7 @@ surrounding her, were, Frederic her grand-pa told her: 1335, 1439, 987, 312,
 Between which peak would she reach the fastest speed? It quite likely would be
 the peak where there was the biggest steepness. Which mountain would this be?
 
+Tags
 Coding Level: beginner
 Coding Ideas: Loop, Array, Derivative
 Story Content: Animal, Pangolin, Mountain
