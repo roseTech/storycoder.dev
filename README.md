@@ -152,6 +152,8 @@ When uploading, make sure to consider the following points:
 3) Contact Community
 If you have any questions, ideas, feedback, etc. contact others working on this project on the discord server called ‘StoryCoder.dev’. If you don’t have discord yet, you can download it for free on https://discord.com/ .
 
+There is also a contact e-mail info((att))storycoder.dev. Please post your questions etc. on discord, as they are relevant to all the other contributors as well. 
+
 Hopefully, any of the above mentioned collaboration ideas appeal to you (or if not, come up with your idea 💡 and we’ll see where/ if we can fit it in) and you would like to collaborate on this project. Please discuss on the discord server ‘StoryCoder.dev’ how you would like to additionally contribute to this project. 
 
 ### Team
