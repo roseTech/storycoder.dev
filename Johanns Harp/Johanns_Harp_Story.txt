@@ -1,3 +1,5 @@
+Johanns Harp
+
 7 Year old Johann was playing outside in the woods. He loved this. The forest
 had so many beautiful things. Birds singing in a wide range of different chirps.
 A deer just hidden behind an oak tree. Frogs, snakes,  ... all of them playing
@@ -20,3 +22,9 @@ precise number than 6%? A number which would really result a factor of exactly
 2? He would make an instrument with 88 different notes, and one should be allow
 to play it silently (piano) and loud (forte) like the animals, a piano
 fortissimo instrument.
+
+Tags:
+Coding Level: medium 
+Coding Ideas: methods, functions, documentation for beginners
+Story Content: harp, music, instrument, inspiration
+Story Genre: descriptive, narration
