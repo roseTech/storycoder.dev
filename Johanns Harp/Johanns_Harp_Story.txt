@@ -25,6 +25,6 @@ fortissimo instrument.
 
 Tags:
 Coding Level: medium 
-Coding Ideas: methods, functions, documentation for beginners
+Coding Ideas: exponential, roots, factor
 Story Content: harp, music, instrument, inspiration
 Story Genre: descriptive, narration
