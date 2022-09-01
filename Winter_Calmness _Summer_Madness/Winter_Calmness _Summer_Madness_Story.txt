@@ -17,7 +17,8 @@ except at every 6th minute where a full car carrying five people passes.
 The walkers are the least loudest, because in a time span of eleven minutes, a soothing rhythm is observed, 
 at which with every passing minute one more walker passes until the eleventh minute, at which the cycle restarts. 
 A deep feeling of uneasiness awakens amid the calmness, thinking of how many people pass this street 
-from noon to 6 pm on a noisy summer day? Print the result. (LillyCode, creative commons license CC BY-NC-SA) 
+from noon to 6 pm on a noisy summer day? Print the result. From the bench, looking at the street, 
+the feeling of this summer madness is everything. (LillyCode, creative commons license CC BY-NC-SA) 
 
 Tags:
 Coding Level: Beginner
