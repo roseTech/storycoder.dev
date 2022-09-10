@@ -10,7 +10,7 @@ to be more specific it is 11.475 Seidons cold now, which is 14 Seidons colder
 than normally. Thus today swimming is not allowed. Seidon is the temperature 
 unit of the sea. 1 Seidon devided by 1.37 equals 1 Degree Celsius. 
 Print the water temperature 🌡️ in both entities with max two fraction digit 
-with an equation on a normal, ice-cube free day!
+with an equation on a normal, ice-cube free day! (LillyCode, creative commons license CC BY-NC-SA)
 
 
 Tags:
