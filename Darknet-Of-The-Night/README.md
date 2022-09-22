@@ -1,4 +1,4 @@
-# DarkNet of the night
+# DarkNet of the Night
 
 <https://storycoder.dev/product/darknet-of-the-night/>
 
