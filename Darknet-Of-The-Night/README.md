@@ -40,8 +40,8 @@ Additional non-codable question: To what famous poem does this poem allude to?
 
 Solutions:
 
-- [Dart solution with functional  style](Darknet-Of-The-Night-functional.dart)
-- [Dart solution with procedural style](Darknet-Of-The-Night-procedural.dart)
-- [Python solution](Darknet-Of-The-Night.py)
+- [Dart solution with functional  style](DarkNet_Of_The_Night_functional.dart)
+- [Dart solution with procedural style]((DarkNet_Of_The_Night_procedural.dart)
+- [Python solution]((DarkNet_Of_The_Night.py)
  
 © CC BY-NC-SA, LillyCode
