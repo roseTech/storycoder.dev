@@ -11,7 +11,7 @@ The pink stuffed elephants’ prices increase by 3 $, the bright sun flowers dec
 and the cardboard bicycles cost 2 $ more than the pink stuffed elephants in the end. 
 A buyer comes by and buys one item each. Has the bazar seller gained or lost money 
 by changing the prices compared to not changing the money? And how much money has he gained 🤗 or lost 😔? 
-(LillyCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA) 
+(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA) 
 
 
 Tags:
