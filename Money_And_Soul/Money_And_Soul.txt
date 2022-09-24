@@ -39,5 +39,5 @@ Additionally: Print your answers to non-codable five questions: yes/ no? surreal
 e.g. Have you earned your money yet? Yes.
 Have you sold your soul yet? Yes.
 … 
-(LillyCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)
+(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)
 
