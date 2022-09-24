@@ -30,4 +30,4 @@ then you have to mark this paragraph. Which paragraphs do you have to mark?
  
 Additional non-codable question: To what famous poem does this poem allude to?
  
-(LillyCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)
+(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)
