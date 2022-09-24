@@ -13,7 +13,7 @@ in the dawn of a deep winter night, was the right decision.
 The masses of snow, covering all man-made architecture and urbanity, 
 promote this feeling of silence as the snow cushions the otherwise prevailing loudness of old buses, 
 car engines and fellow people. From the bench, looking at the street, 
-the feeling of this winter beauty is everything. 
+the feeling of this winter beauty is everything. (Lilly-Elaia-ReedCode, creative commons license CC BY-NC-SA) 
 
 
 Version 2: With implemented code in the second paragraph   
@@ -39,7 +39,7 @@ a soothing rhythm is observed, at which with every passing minute one more walke
 until the eleventh minute, at which the cycle restarts. A deep feeling of uneasiness awakens amid the calmness, 
 thinking of how many people pass this street from noon to 6 pm on a noisy summer day? 
 Print the result. From the bench, looking at the street, 
-the feeling of this summer madness is everything. (LillyCode, creative commons license CC BY-NC-SA) 
+the feeling of this summer madness is everything. (Lilly-Elaia-ReedCode, creative commons license CC BY-NC-SA) 
 
 Tags:
 Coding Level: Beginner
