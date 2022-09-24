@@ -44,4 +44,4 @@ Solutions:
 - [Dart solution with procedural style](DarkNet_Of_The_Night_procedural.dart)
 - [Python solution](DarkNet_Of_The_Night.py)
  
-© CC BY-NC-SA, LillyCode
+© CC BY-NC-SA, Lilly-Elaia-ReedCode
