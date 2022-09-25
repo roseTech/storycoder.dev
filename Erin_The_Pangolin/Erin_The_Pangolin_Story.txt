@@ -23,4 +23,3 @@ Coding Level: beginner
 Coding Ideas: Loop, Array, Derivative
 Story Content: Animal, Pangolin, Mountain
 Story Genre: fiction, family story
-

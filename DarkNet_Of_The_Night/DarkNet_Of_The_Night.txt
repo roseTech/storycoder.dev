@@ -16,18 +16,19 @@ This poem is dedicated to all the advanced coders who have already helped the be
 10. For all the efforts in your ranks?
 11. Forever grateful shall we be,
 12. to share a great community.
- 
+
 13. Coder, Coder, program bright,
 14. in the morning of the light.
 15. To all the ideas that you aspire
 16. and the codes that you inspire.
- 
+
 Thanks!
- 
-Compare all the lines within a paragraph with each other in terms of letter length. 
-If the longest line within a paragraph is more than 10% longer than the shortest line in the same paragraph, 
-then you have to mark this paragraph. Which paragraphs do you have to mark?
- 
+
+Compare all the lines within a paragraph with each other in terms of letter
+length. If the longest line within a paragraph is more than 10% longer than the
+shortest line in the same paragraph, then you have to mark this paragraph. Which
+paragraphs do you have to mark?
+
 Additional non-codable question: To what famous poem does this poem allude to?
- 
+
 (Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)

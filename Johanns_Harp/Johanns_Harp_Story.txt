@@ -24,7 +24,7 @@ to play it silently (piano) and loud (forte) like the animals, a piano
 fortissimo instrument.
 
 Tags:
-Coding Level: medium 
+Coding Level: medium
 Coding Ideas: exponential, roots, factor
 Story Content: harp, music, instrument, inspiration
 Story Genre: descriptive, narration
