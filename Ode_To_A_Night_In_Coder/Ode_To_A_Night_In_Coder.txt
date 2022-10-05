@@ -27,12 +27,13 @@ Documentation: Duration dusk till dawn: From 8.43 pm till 5.49 am
 
 Bell ringing at:
 
-8.45 pm: 8 + 3
-9.00 pm: 9 + 0
-9.15 pm: 9 + 1
-9.30 pm: 9 + 2
-9.45 pm: 9 + 3
+8.45 pm:  3 times (--> 3 quarters)
+9.00 pm: 9 times (--> full hour: 9 o'clock)
+9.15 pm:  1 time (--> 1 quarter)
+9.30 pm: 2 times (--> 2 quarters)
+9.45 pm: 3 times (--> 3 quarters)
+10.00 pm: 10 times (--> full hour: 10 o'clock)
 …..
-5.49 am: 5 + 3
+5.49 am: 3 times (--> 3 quarters)
 
 Print: Sum of times the bell rang
