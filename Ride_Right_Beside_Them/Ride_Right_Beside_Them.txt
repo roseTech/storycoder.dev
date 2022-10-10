@@ -49,13 +49,13 @@ Tab Street
 Night Mode Ave
 Julia Lang Lane
 Stack Overflowed Way
-Roaming Steet
+Roaming Street
 
 
 Documentation: Print Riding Kilometers
 
 Egame Street = E+G+A+M+E+S+T+R+E+E+T = 50 m + 70 m + 10 m + etc. …
-Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 20 m + etc. …
+Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 10 m + etc. …
 …
 
 

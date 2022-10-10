@@ -13,7 +13,7 @@ Tab Street
 Night Mode Ave
 Julia Lang Lane
 Stack Overflowed Way
-Roaming Steet`;
+Roaming Street`;
 
 function len(string) {
     return 10 * string.toUpperCase().split('').filter($ => ($ >= 'A') && ($ <= 'Z')).map($ => $.charCodeAt(0) - 'A'.charCodeAt() + 1).reduce((acc, $) => acc + $);
