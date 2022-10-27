@@ -11,6 +11,9 @@ now I just put one lily in the pond and let nature alone. How many water lilies
 will I see?
 
 Tags
+
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: exponent, math functions
 Story Content: Goodess, Moon, Flowers

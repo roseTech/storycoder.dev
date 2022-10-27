@@ -19,6 +19,9 @@ Between which peak would she reach the fastest speed? It quite likely would be
 the peak where there was the biggest steepness. Which mountain would this be?
 
 Tags
+
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: Loop, Array, Derivative
 Story Content: Animal, Pangolin, Mountain

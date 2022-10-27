@@ -23,7 +23,10 @@ precise number than 6%? A number which would really result a factor of exactly
 to play it silently (piano) and loud (forte) like the animals, a piano
 fortissimo instrument.
 
-Tags:
+Tags
+
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
 Coding Level: medium
 Coding Ideas: exponential, roots, factor
 Story Content: harp, music, instrument, inspiration
