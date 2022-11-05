@@ -176,6 +176,7 @@ First and foremost a huge thank you goes to all and every single one of you who 
 | Erlang      | https://onecompiler.com/erlang                          |
 | Go          | https://www.onlinegdb.com/online_go_compiler            |
 | JavaScript  | https://playcode.io/javascript                          |
+| Perl        | https://onecompiler.com/perl                            |
 | Python      | https://www.onlinegdb.com/online_python_compiler        |
 | Ruby        | https://replit.com/languages/ruby                       |
 | Rust        | https://www.onlinegdb.com/online_rust_compiler          |
@@ -185,5 +186,5 @@ First and foremost a huge thank you goes to all and every single one of you who 
 Your languages is not on this list? Try one the following internet pages:
 
 - https://www.jdoodle.com/
-- https://replit.com/languages/javascript
+- https://onecompiler.com/
 - https://www.onlinegdb.com/

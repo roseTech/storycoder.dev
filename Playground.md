@@ -1,20 +1,7 @@
 
 # Online
 
-| Language    | Webpages                                                |
-| ----------- | ------------------------------------------------------- |
-| C# (6.0+)   | https://dotnetfiddle.net                                |
-| C++         | https://www.onlinegdb.com/online_c++_compiler/          |
-| Clojure     | https://tryclojure.org/                                 |
-| Dart        | https://dartpad.dev/                                    |
-| Erlang      | https://onecompiler.com/erlang                          |
-| Go          | https://www.onlinegdb.com/online_go_compiler            |
-| JavaScript  | https://playcode.io/javascript                          |
-| Python      | https://www.onlinegdb.com/online_python_compiler        |
-| Ruby        | https://replit.com/languages/ruby                       |
-| Rust        | https://www.onlinegdb.com/online_rust_compiler          |
-| Swift       | https://www.tutorialspoint.com/compile_swift_online.php |
-| Type Script | https://www.typescriptlang.org/play                     |
+See [README](README.md)
 
 # Windows
 
@@ -33,6 +20,7 @@
 | Erlang      | `apt install erlang` <br> `escript story.erl`                                                            |
 | Go          | `apt install golang` <br> `go run story.go`                                                              |
 | JavaScript  | `apt install nodejs` <br> `node story.js`                                                                |
+| Perl        | `apt install perl` <br> `perl story.pl`                                                                  |
 | Python      | `apt install python3` <br> `python3 story.py`                                                            |
 | Ruby        | `apt install ruby` <br> `ruby story.rb`                                                                  |
 | Rust        | `apt install rustc` <br> `rustc story.rs && ./story`                                                     |
