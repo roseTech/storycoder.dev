@@ -7,7 +7,7 @@
 | C++         | https://www.onlinegdb.com/online_c++_compiler/          |
 | Clojure     | https://tryclojure.org/                                 |
 | Dart        | https://dartpad.dev/                                    |
-| Erlang      | https://replit.com/languages/erlang                     |
+| Erlang      | https://onecompiler.com/erlang                          |
 | Go          | https://www.onlinegdb.com/online_go_compiler            |
 | JavaScript  | https://playcode.io/javascript                          |
 | Python      | https://www.onlinegdb.com/online_python_compiler        |
@@ -30,11 +30,11 @@
 | C++         | `apt install g++` <br> `g++ story.cpp -o story && ./story`                                               |
 | Clojure     | `apt install clojure` <br> `clojure ./story.clj`                                                         |
 | Dart        | https://dart.dev/get-dart                                                                                |
-| Erlang      | TODO                                                                                                     |
+| Erlang      | `apt install erlang` <br> `escript story.erl`                                                            |
 | Go          | `apt install golang` <br> `go run story.go`                                                              |
 | JavaScript  | `apt install nodejs` <br> `node story.js`                                                                |
 | Python      | `apt install python3` <br> `python3 story.py`                                                            |
 | Ruby        | `apt install ruby` <br> `ruby story.rb`                                                                  |
 | Rust        | `apt install rustc` <br> `rustc story.rs && ./story`                                                     |
-| Swift       | TODO                                                                                                     |
+| Swift       | https://www.swift.org/download/                                                                          |
 | Type Script | `apt install nodejs` <br> `npx ts-node Poseidons_Ice_Cubes.ts`                                           |

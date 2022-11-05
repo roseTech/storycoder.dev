@@ -173,7 +173,7 @@ First and foremost a huge thank you goes to all and every single one of you who 
 | C++         | https://www.onlinegdb.com/online_c++_compiler/          |
 | Clojure     | https://tryclojure.org/                                 |
 | Dart        | https://dartpad.dev/                                    |
-| Erlang      | https://replit.com/languages/erlang                     |
+| Erlang      | https://onecompiler.com/erlang                          |
 | Go          | https://www.onlinegdb.com/online_go_compiler            |
 | JavaScript  | https://playcode.io/javascript                          |
 | Python      | https://www.onlinegdb.com/online_python_compiler        |
