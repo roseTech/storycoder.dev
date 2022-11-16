@@ -62,4 +62,7 @@ for line in text.split('\n'):
 # print(occurrences)
 print(sorted(occurrences, key=occurrences.get, reverse=True)[:3])
 print(sorted(occurrences, key=occurrences.get, reverse=False)[:3])
+// if you look well at the results, you might notice that s and t might both be the third top result:
+// discuss what options you have to solve this.
+
 print(categories)
