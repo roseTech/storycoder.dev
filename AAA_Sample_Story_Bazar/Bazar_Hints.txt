@@ -1,0 +1,11 @@
+Universal Hint System - Bazar
+
+1. All three goods at the bazar each cost 10 dollars. Make an integer each for the elephant, the bicycle and the sunflower and set it to 10.
+2. Now we need to calculate the sum of the initial price assuming that one item each is sold: Set the initial price by summing up the elephant, the bicycle and the sunflower.
+3. The seller now changes the prices in this order: Increment the elephant by 3. Decrement the sunflower by 5. Set the bicycle to (elephant + 2)
+4. Now it is time to calculate the sum of the new, changed, final prices, assuming that one item each is sold: Set the final price by summing up the elephant, the bicycle and the sunflower
+5. At this stage we need to find out whether the seller has gained or lost money by changing the prices: Substract the initial price from the final price. 
+6. Now write an if-clause: 
+- If this difference is a positive number (greater than 0), then print that the seller has gained said mount of mone (difference).
+- If this difference is a negative number (lower that 0), then print that the seller has lost said mount of money (difference). 
+Decide: Was the idea to change the prices smart or not for the seller?
