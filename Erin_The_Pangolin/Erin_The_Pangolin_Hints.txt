@@ -1,0 +1,12 @@
+Assumptions:
+• The pangolin only goes forward,
+• one peak after the other,
+• the list of peaks is ordered,
+• the pangolin only rolles downward (as he cannot fly)
+
+Make an array of all the peaks
+Set a variable of the maximal peak index to 0
+Set a variable of the maximal difference to 0
+Make a for loop, calculating only the positive difference between one item in the array and the adjacent item
+Set two new conditions in the loop by setting the maximal peak index to i  and the maximal difference to (peaks i) - (peaks i+1)
+Print maximal peak index, maximal difference, maximal difference + 1
