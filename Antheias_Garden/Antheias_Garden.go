@@ -2,10 +2,12 @@ package main
 
 import (
 	"fmt"
-	"math"
 )
 
 func main() {
-	power := int(math.Pow(2, 29))
-	fmt.Println(power)
+	lilies := 1
+	for night := 1; night < 29; night += 1 {
+		lilies = lilies * 2
+	}
+	fmt.Println(lilies)
 }
