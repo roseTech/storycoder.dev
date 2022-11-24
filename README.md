@@ -165,16 +165,20 @@ The team of storycoder.dev is you! Every single one who contributes in this open
 
 First and foremost a huge thank you goes to all and every single one of you who has or will collaborate or contribute to this open source project in any shape or form: Thank you very much for your time, devotion, dedication and knowledge that you provide. An open source project like this only works with people like you willing to share and contribute! Thank you very much for believing in the vision of this project!
 
-## How to test language XYZ (sorted alphabetically)
+## How to test language XYZ
+
+(sorted alphabetically)
 
 | Language    | Webpages                                                |
-| ----------- | ------------------------------------------------------- |
+|-------------|---------------------------------------------------------|
+| Bash        | https://www.mycompiler.io/new/bash                      |
 | C#          | https://dotnetfiddle.net                                |
 | C++         | https://www.onlinegdb.com/online_c++_compiler/          |
 | Clojure     | https://tryclojure.org/                                 |
 | Dart        | https://dartpad.dev/                                    |
 | Erlang      | https://onecompiler.com/erlang                          |
 | Go          | https://www.onlinegdb.com/online_go_compiler            |
+| Java        | https://www.sololearn.com/compiler-playground/java      |
 | JavaScript  | https://playcode.io/javascript                          |
 | Perl        | https://onecompiler.com/perl                            |
 | Python      | https://www.onlinegdb.com/online_python_compiler        |
