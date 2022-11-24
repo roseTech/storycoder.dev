@@ -1,11 +1,11 @@
-----
+---
 Author: Lilly-Elaia-ReedCode
 License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: loop for, sum up list
 Story Content: teacher, coffee, exam
 Story Genre: comedy
-----
+---
 
 # Cruel Teacher 🧙‍♀️🧹📝
 

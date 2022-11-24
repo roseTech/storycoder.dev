@@ -1,11 +1,11 @@
-----
+---
 Author: Lilly-Elaia-ReedCode
 License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: loop for, sum up list
 Story Content: snow, winter, calmness, summer, traffic
 Story Genre: introspection
-----
+---
 
 # Example How To Implement Code Winter Beauty
 

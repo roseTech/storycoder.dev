@@ -1,11 +1,11 @@
-----
+---
 Author: Lilly-Elaia-ReedCode
 License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: define digits, division
 Story Content: greek god, poseidon, temperature, water, seize the day
 Story Genre: historical fiction
-----
+---
 
 # Poseidons Ice Cubes 🧊🧊🧊⚓️🧜‍♂️
 

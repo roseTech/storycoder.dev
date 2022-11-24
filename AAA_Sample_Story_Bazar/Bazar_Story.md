@@ -1,11 +1,11 @@
-----
+---
 Author: Lilly-Elaia-ReedCode
 License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: increment, decrement, difference
 Story Content: market, bazar, buying, shopping
 Story Genre: descriptive
-----
+---
 
 # Bazar
 
