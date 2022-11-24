@@ -1,3 +1,14 @@
+----
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level: beginner
+Coding Ideas: loop for, sum up list
+Story Content: snow, winter, calmness, summer, traffic
+Story Genre: introspection
+----
+
+# Example How To Implement Code Winter Beauty
+
 The version 1 of the story below contains no code to solve yet. This is why it
 is located here in the folder ‘AAA_Stories_Without_Implemented_Code_Yet. This
 folder is used for coders to implement some coding into the story. How is this
@@ -6,7 +17,7 @@ done?
 The version 2 of the story below shows, for example, how a coding problem can be
 implemented.
 
-Version 1 without code
+## Version 1: Without code
 
 This quietness undeniably evokes this moment of profound calmness within, but at
 the same time it fosters this sheer solitude, which seems irrevocably unbearable
@@ -17,9 +28,8 @@ decision. The masses of snow, covering all man-made architecture and urbanity,
 promote this feeling of silence as the snow cushions the otherwise prevailing
 loudness of old buses, car engines and fellow people. From the bench, looking at
 the street, the feeling of this winter beauty is everything.
-(Lilly-Elaia-ReedCode, creative commons license CC BY-NC-SA)
 
-Version 2: With implemented code in the second paragraph
+## Version 2: With implemented code in the second paragraph
 
 This quietness undeniably evokes this moment of profound calmness within, but at
 the same time it fosters this sheer solitude, which seems irrevocably unbearable
@@ -44,10 +54,3 @@ restarts. A deep feeling of uneasiness awakens amid the calmness, thinking of
 how many people pass this street from noon to 6 pm on a noisy summer day? Print
 the result. From the bench, looking at the street, the feeling of this summer
 madness is everything.
-(Lilly-Elaia-ReedCode, creative commons license CC BY-NC-SA)
-
-Tags:
-Coding Level: Beginner
-Coding Ideas: loop for, sum up list
-Story Content: snow, winter, calmness, summer, traffic
-Story Genre: introspection
