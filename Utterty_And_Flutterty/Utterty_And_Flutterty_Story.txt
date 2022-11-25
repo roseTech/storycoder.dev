@@ -6,13 +6,9 @@ he nearly forgets to put on his newly purchased rose-tinted glasses 🤓 to go o
 He’s having so many butterflies in his stomach, even though he is a butterfly himself 😂😂😂. 
 Of course some wonder, if that’s even possible 🧐😂. He’s flying around and from far far away, in his rose-coloured sky, 
 there comes flying Butterfly Flutterty 🦋. He of course asks her for a date ♥️ to play dart 🎯 together. 
-Flutterty, however, agrees only upon certain conditions: If Utterty can list the first four lines 
-of her most favourite Shakespeare sonnet ever, which is sonnet 116, with only listing every second letter in less than 30 sec; 
-Flutterty will meet on Monday already; if he takes more than 30 sec she will meet on Tuesday, 
-if he lists the lines with every letter instead of every second letter she will meet on Wednesday; 
-otherwise she’s not interested in dating Utterty 🥲! Utterty of course is flabbergasted, 
-but quickly thinks of all possible outcomes. Print all of them. 
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA) 
+Flutterty, however, agrees only upon certain condition: If Utterty can list the first four lines 
+of her most favourite Shakespeare sonnet ever (which is Sonnet 116) however using only every second letter. 
+Otherwise she’s not interested in dating Utterty 🥲! Help Utterly to pass that challenge.
 
 Shakespeare, Sonnet 116
 Let me not to the marriage of true minds
@@ -20,6 +16,7 @@ Admit impediments. Love is not love
 Which alters when it alteration finds,
 Or bends with the remover to remove.
 
+(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA) 
 
 Tags:
 Coding Level: Medium
