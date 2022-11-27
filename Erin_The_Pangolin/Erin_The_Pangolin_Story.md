@@ -1,5 +1,13 @@
+---
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
+Coding Level: beginner
+Coding Ideas: loop, array, derivative
+Story Content: animal, pangolin, mountain
+Story Genre: fiction, family story
+---
 
-Erin the Pangolin
+# Erin the Pangolin
 
 Erin was a different soul within the world of Pangolin souls. She always knew that
 there was something special about her. All her friends and family where eating
@@ -23,12 +31,3 @@ grand-pa told her: 1335, 1439, 987, 312, 871, 1461, 1171, 654 and 123 meters
 high. But the important question was: Between which peak would she reach the
 fastest speed? It quite likely would be the peak where there was the biggest
 steepness. Which peaks would this be?
-
-Tags
-
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
-Coding Level: beginner
-Coding Ideas: Loop, Array, Derivative
-Story Content: Animal, Pangolin, Mountain
-Story Genre: fiction, family story

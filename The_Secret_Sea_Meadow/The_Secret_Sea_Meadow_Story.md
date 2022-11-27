@@ -1,5 +1,15 @@
+---
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
+Coding Level: simple
+Coding Ideas: sum, division, modulo, time
+Story Content: children, animal, water, friendship, adventure
+Story Genre: fantasy, children
+---
 
-Chapter 1 - The Secret Sea Meadow 🌿
+# The Secret Sea Meadow
+
+## Chapter 1 - The Secret Sea Meadow 🌿
 
 This is the story, about Xayah, Yago and Zuri. Xayah was adventurous orca girl,
 Yago a lovely octopus 🐙 boy and Zuri an inspiring jellyfish hermaphrodite. They
@@ -42,11 +52,11 @@ which had to be avoided at all cost. Zuri was leading and it took them another
 How many seconds did it take Xayah, Yago and Zuri to meet at their secret sea
 meadow? How many minutes, rounded up?
 
-Hint 1: Use the plus operator (+) to add the three seconds
-Hint 2: A minute consists of 60 seconds
-Hint 3: Rounding up can be done with a ceil function
+- Hint 1: Use the plus operator (+) to add the three seconds
+- Hint 2: A minute consists of 60 seconds
+- Hint 3: Rounding up can be done with a ceil function
 
-Chapter 2 - God Rays Upon the Seabed
+## Chapter 2 - God Rays Upon the Seabed
 
 Xayah, Yago and Zuri together reached their secret place. It was amazingly
 beautiful. Sea grass waving with the flow of water. Many fishes 🐟, crabs 🦀,
@@ -65,17 +75,17 @@ Xayah. The 2. 5. 8. and so on fish sung something for Yago and the 3. 6. 9. and
 so on fish sung something for Zuri. That this together still sounded soothing,
 seemed to be an art 🎭 on its own. Did they ask 🙋 some questions?
 
-HAHILE-OLXHLAAOY--AYZHAU-GRWOIH--YWW-HHAYYR--EDD-OOY--OYYUOO-UUB--LHHAAACVVKEE---ANNNIODN--ECW-OHALIROTMRESS
+`HAHILE-OLXHLAAOY--AYZHAU-GRWOIH--YWW-HHAYYR--EDD-OOY--OYYUOO-UUB--LHHAAACVVKEE---ANNNIODN--ECW-OHALIROTMRESS`
 
-How many fishes are there?
-What do the fishes say to Xayah?
-What do the fishes say to Yago?
-What do the fishes say to Zuri?
+- How many fishes are there?
+- What do the fishes say to Xayah?
+- What do the fishes say to Yago?
+- What do the fishes say to Zuri?
 
-Hint 1: What is the length of the string?
-Hint 2: Print the 0, 3, 6, 9, 12, 15, 18, 21, ... letter of the sentence.
+- Hint 1: What is the length of the string?
+- Hint 2: Print the 0, 3, 6, 9, 12, 15, 18, 21, ... letter of the sentence.
 
-Chapter 3
+## Chapter 3
 
 Yago, the octopus 🐙 answered first: I don't know why, but they're all very
 helpful. I can cook 🍳 much more sophisticated meals 🍜, climbing 🧗 up
@@ -113,14 +123,5 @@ How many hours does Xayah have to swim around earth, without riding waves and
 without taking any break? How many days, rounded up? How many days would Yago
 have? How many days would Zuri have?
 
-Hint 1: The, way how to solve this, is almost the same as in chapter 1.
-Hint 2: Take the speed from Xayah without any waves.
-
-Tags
-
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
-Coding Level: simple
-Coding Ideas: sum, division, modulo, time
-Story Content: children, animal, water, friendship, adventure
-Story Genre: fantasy, children
+- Hint 1: The, way how to solve this, is almost the same as in chapter 1.
+- Hint 2: Take the speed from Xayah without any waves.

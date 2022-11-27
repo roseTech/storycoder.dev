@@ -1,4 +1,13 @@
-Ride Right beside them
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
+
+# Ride Right beside them
 
 It looked unforgettably mind-blowing from above, like a geometrically
 consistent, yet artfully beautiful picture. One that you would like to look at,
@@ -30,19 +39,18 @@ which letters the lost group hears.
 
 Non-Codable question: What are the (pop culture) references in the story?
 
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0)
-
 Values of Letters:
-A = 10 m
-B = 20 m
-C = 30 m
-D = 40 m
-...
-Z = 260 m
 
+- A = 10 m
+- B = 20 m
+- C = 30 m
+- D = 40 m
+- ...
+- Z = 260 m
 
 List of Street Names:
 
+```
 Egame Street
 Branch Road
 DartLang Lane
@@ -58,17 +66,16 @@ Night Mode Ave
 Julia Lang Lane
 Stack Overflowed Way
 Roaming Street
-
+```
 
 Documentation: Print Riding Kilometers
 
-Egame Street = E+G+A+M+E+S+T+R+E+E+T = 50 m + 70 m + 10 m + etc. …
-Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 10 m + etc. …
-…
-
+- Egame Street = E+G+A+M+E+S+T+R+E+E+T = 50 m + 70 m + 10 m + etc. ...
+- Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 10 m + etc. ...
+- ...
 
 Documentation: Print every second Letter
 
-Egame Street = g
-Branch Road = r
-…
+- Egame Street = g
+- Branch Road = r
+- ...

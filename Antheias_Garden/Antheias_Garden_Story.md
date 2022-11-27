@@ -1,4 +1,13 @@
-Antheias Garden
+---
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
+Coding Level: beginner
+Coding Ideas: exponent
+Story Content: goddess, moon, flowers
+Story Genre: historical fiction
+---
+
+# Antheias Garden
 
 Antheia was walking through a colorful garden and somehow had an odd feeling
 that there is something missing. There was a tree 🌳, many stones 🪨, even some
@@ -16,11 +25,5 @@ shines again. For today Antheia just puts one beautiful water lily into the pond
 How many water lilies will Antheia see when she returns on the next full-moon
 🌕?
 
-Tags
-
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
-Coding Level: beginner
-Coding Ideas: exponent, math functions
-Story Content: Goodess, Moon, Flowers
-Story Genre: historical fiction
+- Hint 1: Between two full moons are roughly 29 days.
+- Hint 2: Antheia puts one lily into the water, after 1 day there are 2 lilies, after 2 days there are 4 lilies, and so on ...

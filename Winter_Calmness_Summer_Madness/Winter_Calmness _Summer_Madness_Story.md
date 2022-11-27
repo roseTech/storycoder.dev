@@ -1,4 +1,13 @@
-Winter Calmness – Summer Madness
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level: medium
+Coding Ideas: loop for, sum up list
+Story Content: snow, winter, calmness, summer, traffic
+Story Genre: introspection
+---
+
+# Winter Calmness - Summer Madness
 
 This quietness undeniably evokes this moment of profound calmness within, but at
 the same time it fosters this sheer solitude, which seems irrevocably unbearable
@@ -29,12 +38,3 @@ A deep feeling of uneasiness awakens amid the calmness, thinking of how many
 people pass this street from noon to 6 pm on a noisy summer day? Print the
 result. From the bench, looking at the street, the feeling of this summer
 madness is everything.
-
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA) */
-
-
-Tags:
-Coding Level: medium
-Coding Ideas: loop for, sum up list
-Story Content: snow, winter, calmness, summer, traffic
-Story Genre: introspection

@@ -1,5 +1,15 @@
-For A Time
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
 
+# For A Time
+
+```
 Thank you for a time I will never forget.
 
 Thank you for a time when days seemed endless, even more the nights.
@@ -36,10 +46,8 @@ Thank you for the moments that no one can ever take back.
 
 Thank you for the fact that beauty stays forever.
 
-Thank you for the belief that to this day, could I ever go back, I’d do it all again, right the way it was.
+Thank you for the belief that to this day, could I ever go back, I’d do it allagain, right the way it was.
+```
 
-
-Make a list of all phrases, starting with “Thank you for”, followed by the rest
+Make a list of all phrases, starting with "Thank you for", followed by the rest
 of the phrase sorted alphabetically.
-
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0)

@@ -1,7 +1,17 @@
-DarkNet of the night
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
+
+# DarkNet of the night
 
 This poem is dedicated to all the advanced coders who have already helped the beginners on StoryCoder.dev: Thank you.
 
+```
 1. Coder Coder, typing bright,
 2. in the darkNet of the night.
 3. Useful hints that we can hear,
@@ -21,6 +31,7 @@ This poem is dedicated to all the advanced coders who have already helped the be
 14. in the morning of the light.
 15. To all the ideas that you aspire
 16. and the codes that you inspire.
+```
 
 Thanks!
 
@@ -30,5 +41,3 @@ shortest line in the same paragraph, then you have to mark this paragraph. Which
 paragraphs do you have to mark?
 
 Additional non-codable question: To what famous poem does this poem allude to?
-
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)

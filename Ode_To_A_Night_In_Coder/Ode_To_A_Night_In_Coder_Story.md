@@ -1,4 +1,13 @@
-Ode to a Night In Coder
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
+
+# Ode to a Night In Coder
 
 During the dark, freezing evening of that February night in, all I could hear
 was the church bell ringing and all I could think of was you. Was it me longing
@@ -21,19 +30,19 @@ started. It used to take us some time to do the things we never had, until we
 started coding, and writing stories, and storycoder is born. Ode to a night in
 coder!
 
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)
-
-Documentation: Duration dusk till dawn: From 8.43 pm till 5.49 am
+Documentation: Duration dusk till dawn: From 8.43 pm till 5.49 am.
 
 Bell ringing at:
 
-8.45 pm:  3 times (--> 3 quarters)
-9.00 pm: 9 times (--> full hour: 9 o'clock)
-9.15 pm:  1 time (--> 1 quarter)
-9.30 pm: 2 times (--> 2 quarters)
-9.45 pm: 3 times (--> 3 quarters)
-10.00 pm: 10 times (--> full hour: 10 o'clock)
-…..
-5.49 am: 3 times (--> 3 quarters)
+| Time     | Bell Rings | Comment               |
+|----------|------------|-----------------------|
+| 8.45 pm  | 3 times    | 3 quarters            |
+| 9.00 pm  | 9 times    | full hour: 9 o'clock  |
+| 9.15 pm  | 1 time     | 1 quarter             |
+| 9.30 pm  | 2 times    | 2 quarters            |
+| 9.45 pm  | 3 times    | 3 quarters            |
+| 10.00 pm | 10 times   | full hour: 10 o'clock |
+| ..       | ..         | ..                    |
+| 5.49 am  | 3 times    | --> 3 quarters        |
 
 Print: Sum of times the bell rang

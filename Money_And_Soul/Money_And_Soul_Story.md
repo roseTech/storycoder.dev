@@ -1,5 +1,15 @@
-Money and Soul
+---
+Author: Lilly-Elaia-ReedCode
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
 
+# Money and Soul
+
+```
 Earn earn earn
     Our money their money your
 Money
@@ -16,7 +26,6 @@ Lie lie lie
     To you to them to
 You
 
-
 Have you earned your money yet?
 
 Have you sold your soul yet?
@@ -25,11 +34,10 @@ Have you spent your money yet?
 
 Have you lied to yourself yet?
 
-
 It is never too late to not.
 
 Is is it surrealism? Or is it realism?
-
+```
 
 There are words that occur more than once. Print a list of those words,
 independently if they contain capital letters, including the title. State the
@@ -38,5 +46,3 @@ amount of times they occur, starting with the word with the highest occurrence.
 Additionally: Print your answers to non-codable five questions: yes/ no?
 surrealism/ realism? e.g. Have you earned your money yet? Yes. Have you sold
 your soul yet? Yes.
-
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA)

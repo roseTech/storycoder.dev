@@ -1,4 +1,13 @@
-Johanns Harp
+---
+Author: Noctiluca
+License: CC BY-NC-SA 4.0
+Coding Level: medium
+Coding Ideas: exponential, roots, factor
+Story Content: harp, music, instrument, inspiration
+Story Genre: descriptive, narration
+---
+
+# Johanns Harp
 
 7 Year old Johann was playing outside in the woods. He loved this. The forest
 had so many beautiful things. Birds singing in a wide range of different chirps.
@@ -28,11 +37,4 @@ He would make an instrument with 88 different notes, and one should be allow to
 play it silently (piano) and loud (forte) like the animals, a piano fortissimo
 instrument.
 
-Tags
-
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
-Coding Level: medium
-Coding Ideas: exponential, roots, factor
-Story Content: harp, music, instrument, inspiration
-Story Genre: descriptive, narration
+Hint 1: `+ 6%` is the same as `* 106%`
