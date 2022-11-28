@@ -13,7 +13,7 @@ See documentation below: Make a list of the types of pearls and their respective
 
 And I finally felt release. It set me free. All the pearls changed into beautiful shapes.
 Take a Guess. Non-Codable Questions:
-1) Guess, before coding: Which type of pearls has the median amount of faces?
+- 1) Guess, before coding: Which type of pearls has the median amount of faces?
 (Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
 
 # Documentation:
@@ -34,7 +34,7 @@ except for the 56th, 63th and 72th pearl which turn into a Tetrahedron (four fac
 The rest of the pearls change into cubes (6 faces)
 
 # Make a list of all the types of pearls and sort them according to 
-their respective amounts of faces from lowest to highest:
+# their respective amounts of faces from lowest to highest:
 Pearls of Love = ? faces
 Pearls of Trust = ? faces
 Pearls of Joy = ? faces
