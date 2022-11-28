@@ -4,7 +4,7 @@
 
 The code in this repository is under the MIT License
 
-Copyright (c) 2022 roseTech
+Copyright (c) 2022 roseTech / StoryCoder.dev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,4 +26,4 @@ SOFTWARE.
 
 ## Exercise text
 
-The exercise texts in this repository are under the CC-BY-NC-SA license.
+The exercise texts in this repository are under the CC-BY-NC-SA 4.0 International license.
