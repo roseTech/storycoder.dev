@@ -14,7 +14,7 @@ See documentation below: Make a list of the types of pearls and their respective
 And I finally felt release. It set me free. All the pearls changed into beautiful shapes.
 Take a Guess. Non-Codable Questions:
 - 1) Guess, before coding: Which type of pearls has the median amount of faces?
-(Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
+- (Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
 
 # Documentation:
 ## Type of Pearls:
