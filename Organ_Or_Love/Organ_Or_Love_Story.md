@@ -16,7 +16,7 @@ Take a Guess. Non-Codable Questions:
 1) Guess, before coding: Which type of pearls has the median amount of faces?
 (Lilly-Elaia-ReedCode, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
 
-Documentation:
+# Documentation:
 Type of Pearls:
 1 till 15 = Pearls of Love 
 16 till 32 = Pearls of Trust
@@ -26,14 +26,14 @@ Type of Pearls:
 77 till 85 = Pearls of Romance
 86 till 101 = Pearls of Strength
 
-Changes of Pearl shapes: 
+# Changes of Pearl shapes: 
 every 7th pearl into a dodecahedron (12 faces)
 every 8th pearl into a icosahedron (20 faces) 
 every 9th pearl into an Octahedron (8 faces) 
 except for the 56th, 63th and 72th pearl which turn into a Tetrahedron (four faces) 
 The rest of the pearls change into cubes (6 faces)
 
-Make a list of all the types of pearls and sort them according to 
+# Make a list of all the types of pearls and sort them according to 
 their respective amounts of faces from lowest to highest:
 Pearls of Love = ? faces
 Pearls of Trust = ? faces
