@@ -7,7 +7,7 @@ Story Content: children, animal, water, friendship, adventure
 Story Genre: fantasy, children
 ---
 
-# The Secret Sea Meadow
+# Across The Ocean
 
 ## Chapter 1 - The Secret Sea Meadow 🌿
 
@@ -38,23 +38,23 @@ What Xayah, Yago and Zuri did, was almost expected. They met at their secret �
 place far away from everyone else, as often as possible. Reaching their secret
 place was not a task for the faint-hearted:
 
-- The first part was an almost impenetrable maze of twining plants 🌱. Xayah
+1. an almost impenetrable maze of twining plants 🌱. Xayah
 took the lead on this. It took them 165 seconds, to get through the maze.
-
-- The second part was tricky lair with lots of sharp rocks 🪨. Yago could always
+2. a tricky lair with lots of sharp rocks 🪨. Yago could always
 remember all the dangerous spots, it took them 41 seconds to get through the
 lair.
-
-- The third part, a landscape full of black and white smokers 🌋, some of them
+3. a landscape full of black and white smokers 🌋, some of them
 which had to be avoided at all cost. Zuri was leading and it took them another
 223 seconds.
 
 How many seconds did it take Xayah, Yago and Zuri to meet at their secret sea
 meadow? How many minutes, rounded up?
 
-- Hint 1: Use the plus operator (+) to add the three seconds
-- Hint 2: A minute consists of 60 seconds
-- Hint 3: Rounding up can be done with a ceil function
+Hints
+
+1. Use the plus operator (+) to add the three seconds
+2. A minute consists of 60 seconds
+3. Rounding up can be done with a ceil function
 
 ## Chapter 2 - God Rays Upon the Seabed
 
@@ -82,10 +82,12 @@ seemed to be an art 🎭 on its own. Did they ask 🙋 some questions?
 - What do the fishes say to Yago?
 - What do the fishes say to Zuri?
 
-- Hint 1: What is the length of the string?
-- Hint 2: Print the 0, 3, 6, 9, 12, 15, 18, 21, ... letter of the sentence.
+Hints
 
-## Chapter 3
+1. What is the length of the string?
+2. Print the 0, 3, 6, 9, 12, 15, 18, 21, ... letter of the sentence.
+
+## Chapter 3 - Cicis Friends
 
 Yago, the octopus 🐙 answered first: I don't know why, but they're all very
 helpful. I can cook 🍳 much more sophisticated meals 🍜, climbing 🧗 up
@@ -123,5 +125,7 @@ How many hours does Xayah have to swim around earth, without riding waves and
 without taking any break? How many days, rounded up? How many days would Yago
 have? How many days would Zuri have?
 
-- Hint 1: The, way how to solve this, is almost the same as in chapter 1.
-- Hint 2: Take the speed from Xayah without any waves.
+Hints
+
+1. The, way how to solve this, is almost the same as in chapter 1.
+2. Take the speed from Xayah without any waves.
