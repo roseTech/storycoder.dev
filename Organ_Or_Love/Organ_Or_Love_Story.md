@@ -22,7 +22,7 @@ it off just yet!
 
 And I started counting the different types of pearls of the necklace in a row:
 15 pearls of love, 17 pearls of trust, 14 pearls of joy, 19 pearls of feelings,
-11 pearls of hope, 9 pearls of romance, 16 peals of strength!
+11 pearls of hope, 9 pearls of romance, 16 pearls of strength!
 
 And then there was this moment of thunder in the rain, and out of nothing, a
 strike shook me, my hand startled and let go of the necklace. And the pearls
