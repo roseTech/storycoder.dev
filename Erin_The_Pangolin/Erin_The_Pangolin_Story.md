@@ -30,4 +30,30 @@ She knew exactly how high the peaks, surrounding her, were, Frederic her
 grand-pa told her: 1335, 1439, 987, 312, 871, 1461, 1171, 654 and 123 meters
 high. But the important question was: Between which peak would she reach the
 fastest speed? It quite likely would be the peak where there was the biggest
-steepness. Which peaks would this be?
+steepness.
+
+Which peak would this be?
+
+<div data-solution="3"></div>
+
+What is the maximum steepness?
+
+<div data-solution="675"></div>
+
+Assumptions:
+
+- Erin only goes forward, one peak after the other
+- The list of peaks is ordered
+- Erin only rolles downward (as she cannot fly)
+
+Hints
+
+1. Make an array of all the peaks
+2. Set a variable of the maximal peak index to `0`
+3. Set a variable of the maximal difference to `0`
+4. Make a for loop, calculating only the positive difference between one item in
+   the array and the adjacent item
+5. Set two new conditions in the loop, by setting the maximal peak index to i
+   and the maximal difference to `peaks[i] - peaks[i + 1]`
+6. Print maximal peak index (start from `1` not from `0`)
+7. Print the maximal difference

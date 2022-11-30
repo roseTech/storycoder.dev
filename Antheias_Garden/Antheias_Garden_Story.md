@@ -25,5 +25,9 @@ shines again. For today Antheia just puts one beautiful water lily into the pond
 How many water lilies will Antheia see when she returns on the next full-moon
 🌕?
 
-- Hint 1: Between two full moons are roughly 29 days.
-- Hint 2: Antheia puts one lily into the water, after 1 day there are 2 lilies, after 2 days there are 4 lilies, and so on ...
+Hints:
+
+1. Between two full moons are roughly 29 days.
+2. Antheia puts one lily into the water, after 1 day there are 2 lilies, after 2 days there are 4 lilies, and so on ...
+
+<div data-solution="536870912"></div>
