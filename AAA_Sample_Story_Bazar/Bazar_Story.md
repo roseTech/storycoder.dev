@@ -37,7 +37,7 @@ money has he gained 🤗 or lost 😔?
 The answer should have one of the following forms, depending if the bazar seller
 gained or lost money:
 
-- Gained 3$
-- Lost 2$
+- `Gained 4$`
+- `Lost 9$`
 
 <div data-solution="Gained 3$"></div>
