@@ -10,12 +10,12 @@ def main():
     final_price = elephant + sunflower + bicycle
 
     gain_or_loss = final_price - initial_price
-    
+
     if gain_or_loss > 0:
-        result = "gained"
+        prefix = "Gained"
     else:
-        result = "lost"
-    
-    print(f"In the end, the bazar seller has {result} ${gain_or_loss}.")
+        prefix = "Lost"
+
+    print(f"{prefix} ${abs(gain_or_loss)}")
 
 main()

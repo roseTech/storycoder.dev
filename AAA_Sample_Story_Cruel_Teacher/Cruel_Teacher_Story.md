@@ -23,4 +23,7 @@ $7 💸. Ten of her students are late while dropping in one minute after the oth
 minute right after the regular start. The teacher is furious, her hair stands
 up, with her beloved coffee time being constantly interrupted.
 
-However, she takes comfort in earning money! Print how much money she will have earned in the end!
+However, she takes comfort in earning money! Print how much money she will have
+earned in the end!
+
+<div data-solution="385"></div>

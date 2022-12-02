@@ -33,3 +33,11 @@ not all in favour of the buyer.
 A buyer comes by and buys one item each. Has the bazar seller gained or lost
 money by changing the prices compared to not changing the money? And how much
 money has he gained 🤗 or lost 😔?
+
+The answer should have one of the following forms, depending if the bazar seller
+gained or lost money:
+
+- Gained 3$
+- Lost 2$
+
+<div data-solution="Gained 3$"></div>

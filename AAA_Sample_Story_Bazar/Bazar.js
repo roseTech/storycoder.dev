@@ -9,12 +9,11 @@ function main() {
     const finalPrice = elephant + bicycles + sunflower;
 
     const gainOrLoss = finalPrice - initialPrice;
-    console.log(`in the hend the bazar seller has gained ${gainOrLoss} $`);
-    if (gainOrLoss < 0) {
-        console.log('so his idea to change prices was not smart');
-    } else {
-        console.log('he was a smart dude and could fill his pouch');
-    }
+
+    const prefix = gainOrLoss > 0 ? 'Gained' : 'Lost';
+    const result = `${prefix} ${Math.abs(gainOrLoss)}$`;
+
+    console.log(result);
 }
 
 main();
