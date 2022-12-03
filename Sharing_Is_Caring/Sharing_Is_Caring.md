@@ -20,11 +20,12 @@ Buildy, on the other hand, is building a wooden mini sleigh, whereas Singy is si
 
 And then there is Sneaky, who, because everyone else is doing something, decides, out of sneakishness, to take away food from Louisa’s bag. 
 Noisy sees this, thinks to himself: “How unfair is that, so typical of Sneaky”; but then decides to also take food from other elves’ bags as well. 
-And the sneakishness among the elves continues. Santa isn’t so happy about that and thus wants to know two things: ## See documentation below
- 
+And the sneakishness among the elves continues. Santa isn’t so happy about that and thus wants to know two things: 
+
+# Questions: Print
 1) The highest amount of food type that each elf carries in the end. (One food type per elf: The highest amount of food type per elf). 
 Round the amounts of food types to full numbers.
-3) The total amount of all food types per elf in the end. And who has the highest amount of total food types and wins?
+2) The total amount of all food types per elf in the end. And who has the highest amount of total food types and wins?
  
 Santa, together with his elves, decides that after coding this, they would put all their foods on the table share. And the moral of the story is: Sharing is caring!
 
