@@ -22,7 +22,8 @@ And then there is Sneaky, who, because everyone else is doing something, decides
 Noisy sees this, thinks to himself: “How unfair is that, so typical of Sneaky”; but then decides to also take food from other elves’ bags as well. 
 And the sneakishness among the elves continues. Santa isn’t so happy about that and thus wants to know two things: 
 
-# Questions: Print
+# Questions: 
+Print
 1) The highest amount of food type that each elf carries in the end. (One food type per elf: The highest amount of food type per elf). 
 Round the amounts of food types to full numbers.
 2) The total amount of all food types per elf in the end. And who has the highest amount of total food types and wins?
@@ -51,4 +52,5 @@ At the beginning each elf has 100 pieces of each food.
 - Every elf having an elf sitting in front and in the back of them, takes 8 ginger breads from that elf, and 2/5 of the combined stolen amount of ginger breads get eaten.
 
 After a copious candy and sweets eating feast, all the elves and Santa fall contentedly asleep, as the reindeers continue the journey in the darkness of a Dezember night.
+
 (Emilia Tech4, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
