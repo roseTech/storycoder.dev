@@ -54,6 +54,6 @@ At the beginning each elf has 100 pieces of each food.
 - Every elf having an elf sitting in from of them, takes 7 candies each from that elf, and 1/2 of the combined stolen amount of candies get eaten. 
 - Every elf having an elf sitting in front and in the back of them, takes 8 ginger breads from that elf, and 2/5 of the combined stolen amount of ginger breads get eaten.
 
-After a copious candy and sweets eating feast, all the elves and Santa fall contentedly asleep, as the reindeers continue the journey in the darkness of a Dezember night.
+After a copious candy and sweets eating feast, all the elves and Santa fall contentedly asleep, as the reindeers continue the journey in the darkness of a December night.
 
 (Emilia Tech4, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
