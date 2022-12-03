@@ -42,8 +42,8 @@ Santa, together with his elves, decides that after coding this, they would put a
 
 - Singy    Sneaky    Drinky
 
-- Reindeers santa reindeers
-  Front of the sleigh
+Reindeers santa reindeers
+Front of the sleigh
 
 At the beginning each elf has 100 pieces of each food. 
 - Every elf having a neighbour to the right takes 2 cookies each from that neighbour, and 1/6 of the combined amount of stolen cookies gets eaten. 
