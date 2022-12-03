@@ -37,7 +37,9 @@ Santa, together with his elves, decides that after coding this, they would put a
 Sitting positions:
 
 Cody    Louisa    Sleepy
+
 Noisy    Buildy    Calky
+
 Singy    Sneaky    Drinky
 
 Reindeers santa reindeers
