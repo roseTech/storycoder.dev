@@ -34,15 +34,15 @@ Santa, together with his elves, decides that after coding this, they would put a
 1) The story contains many (pop) cultural references to books, music, tech, etc.; what are they?
 
 # Documentation:
-Sitting positions:
+### Sitting positions:
 
-Cody    Louisa    Sleepy
+- Cody    Louisa    Sleepy
 
-Noisy    Buildy    Calky
+- Noisy    Buildy    Calky
 
-Singy    Sneaky    Drinky
+- Singy    Sneaky    Drinky
 
-Reindeers santa reindeers
+- Reindeers santa reindeers
   Front of the sleigh
 
 At the beginning each elf has 100 pieces of each food. 
