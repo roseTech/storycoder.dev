@@ -26,27 +26,27 @@ And the sneakishness among the elves continues. Santa isn’t so happy about tha
 1) Print the highest amount of food type that each elf carries in the end. (eg. The highest amount of food type per elf). 
 Round the amounts of food types to full numbers.
 Output should be: 
-Cody = Print highest amount of food type: Either cookies or caramel bonbons or chocolate Christmas trees or chewing gums or candies or ginger breads; and the amount rounded to full numbers.
-Louisa = Same procedure
-Sleepy = Same procedure
-Noisy = Same procedure
-Buildy = Same procedure
-Calcy = Same procedure
-Singy = Same procedure
-Sneaky = Same procedure
-Drinky = Same procedure
+- Cody = Print highest amount of food type: Either cookies or caramel bonbons or chocolate Christmas trees or chewing gums or candies or ginger breads; and the amount rounded to full numbers.
+- Louisa = Same procedure
+- Sleepy = Same procedure
+- Noisy = Same procedure
+- Buildy = Same procedure
+- Calcy = Same procedure
+- Singy = Same procedure
+- Sneaky = Same procedure
+- Drinky = Same procedure
 
 2) Calculate the total amount of all food types per elf in the end. Print which elf has the highest amount of total food types and the amount? Round the amounts to full numbers.
 Output should be: 
-Cody = Sum of Cody's cookies and caramel bonbons and chocolate Christmas trees and chewing gums and candies and ginger breads; and the amount rounded to full numbers.
-Louisa = Same procedure
-Sleepy = Same procedure
-Noisy = Same procedure
-Buildy = Same procedure
-Calcy = Same procedure
-Singy = Same procedure
-Sneaky = Same procedure
-Drinky = Same procedure
+- Cody = Sum of Cody's cookies and caramel bonbons and chocolate Christmas trees and chewing gums and candies and ginger breads; and the amount rounded to full numbers.
+- Louisa = Same procedure
+- Sleepy = Same procedure
+- Noisy = Same procedure
+- Buildy = Same procedure
+- Calcy = Same procedure
+- Singy = Same procedure
+- Sneaky = Same procedure
+- Drinky = Same procedure
  
 Print the elf's name with the highest amount of food types and also print the amount rounded to full numbers.
 
