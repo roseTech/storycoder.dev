@@ -54,6 +54,7 @@ Santa, together with his elves, decides that after coding this story, they would
 
 # Take a Guess. Non-Codable Questions:
 1) The story contains many (pop) cultural references to books, music, tech, etc.; what are they?
+2) Before coding take a guess: Which elves do you think carries the most food pieces?
 
 # Documentation:
 ### Sitting positions of the elves in the sleigh:
