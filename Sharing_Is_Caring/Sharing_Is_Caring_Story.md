@@ -56,7 +56,7 @@ Santa, together with his elves, decides that after coding this story, they would
 1) The story contains many (pop) cultural references to books, music, tech, etc.; what are they?
 
 # Documentation:
-### Sitting positions:
+### Sitting positions of the elves:
 
 - Cody       Louisa       Sleepy
 
