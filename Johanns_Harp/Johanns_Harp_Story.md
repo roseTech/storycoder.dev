@@ -31,10 +31,16 @@ If he would make 13 strings each 6% faster then the previous one, the 13th one
 would be twice as fast as the first one. And he tried this out many times until
 he found this, 1 + 6% + 6% + 6% + 6% + 6% + 6% + 6% + 6% + 6% + 6% + 6% + 6%
 this would result in 2.01. But isn't there a more precise number than 6%? A
-number which would really result a factor of exactly 2?
+number which would really result a factor of almost 2? Print this number with 6
+digits after the floating point.
+
+<div data-solution="1.059463"></div>
 
 He would make an instrument with 88 different notes, and one should be allow to
 play it silently (piano) and loud (forte) like the animals, a piano fortissimo
 instrument.
 
-Hint 1: `+ 6%` is the same as `* 106%`
+Hints
+
+1. `+ 6%` is the same as `* 106%`
+2. The number 98765.1234567 has 7 digits, after the floating point

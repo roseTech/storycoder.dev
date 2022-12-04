@@ -48,13 +48,19 @@ which had to be avoided at all cost. Zuri was leading and it took them another
 223 seconds.
 
 How many seconds did it take Xayah, Yago and Zuri to meet at their secret sea
-meadow? How many minutes, rounded up?
+meadow?
+
+<div data-solution="429"></div>
+
+How many minutes, rounded up?
+
+<div data-solution="8"></div>
 
 Hints
 
 1. Use the plus operator (+) to add the three seconds
 2. A minute consists of 60 seconds
-3. Rounding up can be done with a ceil function
+3. Rounding up can often be done with a ceil function from a math library
 
 ## Chapter 2 - God Rays Upon the Seabed
 
@@ -77,10 +83,21 @@ seemed to be an art 🎭 on its own. Did they ask 🙋 some questions?
 
 `HAHILE-OLXHLAAOY--AYZHAU-GRWOIH--YWW-HHAYYR--EDD-OOY--OYYUOO-UUB--LHHAAACVVKEE---ANNNIODN--ECW-OHALIROTMRESS`
 
-- How many fishes are there?
-- What do the fishes say to Xayah?
-- What do the fishes say to Yago?
-- What do the fishes say to Zuri?
+How many fishes are there?
+
+<div data-solution="108"></div>
+
+What do the fishes say to Xayah?
+
+<div data-solution="HI-XAYAH-WHY-ARE-YOU-BLACK-AND-WHITE"></div>
+
+What do the fishes say to Yago?
+
+<div data-solution="ALOHA-YAGO-WHY-DO-YOU-HAVE-NINE-ARMS"></div>
+
+What do the fishes say to Zuri?
+
+<div data-solution="HELLO-ZURI-WHY-DO-YOU-HAVE-NO-COLORS"></div>
 
 Hints
 
@@ -122,10 +139,24 @@ just off and away. But I can propel 🚀 myself with almost 40 kilometers per
 hour. Zuri can swim up to 10 kilometers per hour.
 
 How many hours does Xayah have to swim around earth, without riding waves and
-without taking any break? How many days, rounded up? How many days would Yago
-have? How many days would Zuri have?
+without taking any break?
+
+<div data-solution="800"></div>
+
+How many days, rounded up?
+
+<div data-solution="34"></div>
+
+How many days would Yago have?
+
+<div data-solution="42"></div>
+
+How many days would Zuri have?
+
+<div data-solution="167"></div>
 
 Hints
 
 1. The, way how to solve this, is almost the same as in chapter 1.
 2. Take the speed from Xayah without any waves.
+3. A day has 24 hours.
