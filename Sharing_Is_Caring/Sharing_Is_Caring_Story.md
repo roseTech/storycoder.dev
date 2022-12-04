@@ -28,7 +28,7 @@ Print
 Round the amounts of food types to full numbers.
 2) The total amount of all food types per elf in the end. And who has the highest amount of total food types and wins?
  
-Santa, together with his elves, decides that after coding this, they would put all their foods on the table share. And the moral of the story is: Sharing is caring!
+Santa, together with his elves, decides that after coding this story, they would put all their foods on the table and share. And the moral of the story is: Sharing is caring!
 
 # Take a Guess. Non-Codable Questions:
 1) The story contains many (pop) cultural references to books, music, tech, etc.; what are they?
