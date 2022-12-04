@@ -68,7 +68,8 @@ Reindeers santa reindeers
 
 Front of the sleigh
 
-At the beginning each elf has 100 pieces of each food. 
+At the beginning each elf has 100 pieces of each food type, which are: cookies, caramel bonbons, chocolate Christmas trees, chewing gums, candies and ginger breads.
+
 - Every elf having a neighbour to the right takes 2 cookies each from that neighbour, and 1/6 of the combined amount of stolen cookies gets eaten. 
 - Every elf having a neighbour to the left takes 5 caramel bonbons each from that neighbour, and 1/3 of the combined amount stolen of bonbons gets eaten. 
 - Every elf in the middle that has neighbours left and right, takes from them each 3 chocolate Christmas trees, and none get eaten.
