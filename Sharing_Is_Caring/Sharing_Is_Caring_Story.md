@@ -8,9 +8,9 @@ And Santa excitingly, but also slightly stressed, looks at his overly punctual, 
 
 The elves happily, but also utterly exhausted, take their cushioned Christmassly decorated seats in Santa’s overloaded sleigh! 
 Coloured presents, fir tree branches, reindeer equipments, cookies, open milk jugs, and a lot of personal traveling items are on board of this sleigh 
-(yes, almost unbelievable, but some elves heavily exaggerated on the allowed amount of personal baggage. 
+(yes, almost unbelievable, but some elves heavily exaggerated on the allowed amount of personal baggage). 
 But Santa was courageously relaxed about this, as he knows in the end that some elves, mostly always the same ones, 
-exceed the allowed baggage limit also when they travel on planes!
+exceed the allowed baggage limit also when they travel on planes! On top of the vast amount of personal belongings, each elves carries a lot a lot of sweets: 100 pieces of cookies, caramel bonbons, chocolate Christmas trees, chewing gums, candies and ginger breads each in their rucksacks. 
 
 “Yeyy”, said Noisy, “we’re going on a road trip”, while heartily listening to Christmas carols on his inherited old school disc man! 
 Excitement arises, and the elves’ hearts start beating faster, except for the really tired elves, they’re bound to fall asleep, 
