@@ -76,7 +76,7 @@ At the beginning each elf has 100 pieces of each food type, which are: cookies, 
 - Every elf having a neighbour to the left takes 5 caramel bonbons each from that neighbour, and 1/3 of the combined amount of stolen bonbons gets eaten. 
 - Every elf in the middle that has neighbours left and right, takes from them each 3 chocolate Christmas trees, and none get eaten.
 - Every elf having an elf sitting behind them, takes 6 chewing gums each from that elf, and 1/4 of the combined amount of stolen cheewing gum gets eaten. 
-- Every elf having an elf sitting in from of them, takes 7 candies each from that elf, and 1/2 of the combined amount of stolen candies gets eaten. 
+- Every elf having an elf sitting in front of them, takes 7 candies each from that elf, and 1/2 of the combined amount of stolen candies gets eaten. 
 - Every elf having an elf sitting in front and in the back of them, takes 8 ginger breads each from that elf, and 2/5 of the combined amount of stolen ginger breads gets eaten.
 
 After a copious candy and sweets eating feast, all the elves and Santa fall contentedly asleep, as the reindeers continue the journey in the darkness of a December night, sharing and eating up the rest of the candies. 
