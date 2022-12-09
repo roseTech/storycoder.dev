@@ -59,15 +59,16 @@ Santa, together with his elves, decides that after coding this story, they would
 # Documentation:
 ### Sitting positions of the elves in the sleigh:
 
+Reindeers santa reindeers
+
+Front of the sleigh
+
 - Cody       Louisa       Sleepy
 
 - Noisy       Buildy      Calcy
 
 - Singy       Sneaky      Drinky
 
-Reindeers santa reindeers
-
-Front of the sleigh
 
 At the beginning each elf has 100 pieces of each food type, which are: cookies, caramel bonbons, chocolate Christmas trees, chewing gums, candies and ginger breads.
 
