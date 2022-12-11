@@ -52,29 +52,6 @@ Print: The elf's name with the highest amount of food types and the respective a
 
 Santa, together with his elves, decides that after coding this story, they would put all their foods on the table and share. And the moral of the story is: Sharing is caring!
 
-See example below:
-
-- Cody takes two cookies from Lousia
-- Noisy takes two cookies from Buildy
-- Singy takes two Cookies from Drinky
-- Louisa takes two cookies from Sleppy
-- Buildy takes two cookies from Calcy
-- Sneaky takes two cookies from Calcy
-
---> All in all 2x6 cookies have been stolen (=12 cookies); 1/6 of this amount (= 2 cookies) gets eaten; so 10 stolen cookies remain, which are equally distributed among the cooky thieves: 10/6 = 1.66
-
-In the end:
-- Cody has: 100 + 2 + 1.66  cookies
-- Noisy has: 100 + 2 + 1.66  cookies
-- Singy has: 100 + 2 + 1.66  cookies
-- Louisa has: 100 - 2 + 2 + 1.66 cookies 
-- Buildy has: 100 - 2 + 2 + 1.66 cookies 
-- Sneaky has: 100 - 2 + 2 + 1.66 cookies 
-- Sleepy has: 100 - 2 cookies
-- Calcy has: 100 - 2 cookies
-- Drinky: 100 - 2 cookies 
-
-And then the next task is repeated in a similar way.
 
 
 # Take a Guess. Non-Codable Questions:
@@ -103,6 +80,31 @@ At the beginning each elf has 100 pieces of each food type, which are: cookies, 
 - Every elf having an elf sitting behind them, takes 6 chewing gums each from that elf, and 1/4 of the combined amount of stolen cheewing gum gets eaten. 
 - Every elf having an elf sitting in front of them, takes 7 candies each from that elf, and 1/2 of the combined amount of stolen candies gets eaten. 
 - Every elf having an elf sitting in front and in the back of them, takes 8 ginger breads each from that elf, and 2/5 of the combined amount of stolen ginger breads gets eaten.
+
+See example below:
+
+- Cody takes two cookies from Lousia
+- Noisy takes two cookies from Buildy
+- Singy takes two Cookies from Drinky
+- Louisa takes two cookies from Sleppy
+- Buildy takes two cookies from Calcy
+- Sneaky takes two cookies from Calcy
+
+--> All in all 2x6 cookies have been stolen (=12 cookies); 1/6 of this amount (= 2 cookies) gets eaten; so 10 stolen cookies remain, which are equally distributed among the cooky thieves: 10/6 = 1.66
+
+In the end:
+- Cody has: 100 + 2 + 1.66  cookies
+- Noisy has: 100 + 2 + 1.66  cookies
+- Singy has: 100 + 2 + 1.66  cookies
+- Louisa has: 100 - 2 + 2 + 1.66 cookies 
+- Buildy has: 100 - 2 + 2 + 1.66 cookies 
+- Sneaky has: 100 - 2 + 2 + 1.66 cookies 
+- Sleepy has: 100 - 2 cookies
+- Calcy has: 100 - 2 cookies
+- Drinky: 100 - 2 cookies 
+
+And then the next task is repeated in a similar way.
+
 
 After a copious candy and sweets eating feast, all the elves and Santa fall contentedly asleep, as the reindeers continue the journey in the darkness of a December night, sharing and eating up the rest of the candies. 
 
