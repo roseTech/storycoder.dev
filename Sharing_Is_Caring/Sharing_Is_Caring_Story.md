@@ -52,6 +52,31 @@ Print: The elf's name with the highest amount of food types and the respective a
 
 Santa, together with his elves, decides that after coding this story, they would put all their foods on the table and share. And the moral of the story is: Sharing is caring!
 
+See example below:
+
+- Cody takes two cookies from Lousia
+- Noisy takes two cookies from Buildy
+- Singy takes two Cookies from Drinky
+- Louisa takes two cookies from Sleppy
+- Buildy takes two cookies from Calcy
+- Sneaky takes two cookies from Calcy
+
+--> All in all 2x6 cookies have been stolen (=12 cookies); 1/6 of this amount (= 2 cookies) gets eaten; so 10 stolen cookies remain, which are equally distributed among the cooky thieves: 10/6 = 1.66
+
+In the end:
+- Cody has: 100 + 2 + 1.66  cookies
+- Noisy has: 100 + 2 + 1.66  cookies
+- Singy has: 100 + 2 + 1.66  cookies
+- Louisa has: 100 - 2 + 2 + 1.66 cookies 
+- Buildy has: 100 - 2 + 2 + 1.66 cookies 
+- Sneaky has: 100 - 2 + 2 + 1.66 cookies 
+- Sleepy has: 100 - 2 cookies
+- Calcy has: 100 - 2 cookies
+- Drinky: 100 - 2 cookies 
+
+And then the next task is repeated in a similar way.
+
+
 # Take a Guess. Non-Codable Questions:
 1) The story contains many (pop) cultural references to books, music, tech, etc.; what are they?
 2) Before coding take a guess: Which elves do you think carries the most food pieces?
