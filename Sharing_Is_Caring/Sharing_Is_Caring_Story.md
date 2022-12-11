@@ -81,7 +81,7 @@ At the beginning each elf has 100 pieces of each food type, which are: cookies, 
 - Every elf having an elf sitting in front of them, takes 7 candies each from that elf, and 1/2 of the combined amount of stolen candies gets eaten. 
 - Every elf having an elf sitting in front and in the back of them, takes 8 ginger breads each from that elf, and 2/5 of the combined amount of stolen ginger breads gets eaten.
 
-See example below:
+### See example below for the Cookies:
 
 - Cody takes two cookies from Lousia
 - Noisy takes two cookies from Buildy
