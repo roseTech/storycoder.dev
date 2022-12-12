@@ -29,5 +29,6 @@ Hints:
 
 1. Between two full moons are roughly 29 days.
 2. Antheia puts one lily into the water, after 1 day there are 2 lilies, after 2 days there are 4 lilies, and so on ...
+3. The solution has to be an integer (not a floating point number)
 
 <div data-solution="536870912"></div>
