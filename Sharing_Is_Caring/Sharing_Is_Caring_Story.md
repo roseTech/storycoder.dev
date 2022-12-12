@@ -52,10 +52,6 @@ At the beginning each elf has 100 pieces of each food type, which are: cookies, 
 
 3) Find total amount of all food elves have and check what percentage is missing compared to start of the journey - print total number and percent of missing food.
 
-
-Santa, together with his elves, decides that after coding this story, they would put all their foods on the table and share. And the moral of the story is: Sharing is caring!
-
-
 ### See example below for the Cookies:
 
 - Cody takes two cookies from Lousia
@@ -65,5 +61,12 @@ Santa, together with his elves, decides that after coding this story, they would
 
 - Luisa takes two cookies from Sleepy
 - Luisa has now 98+(2-1) cookies
+
+
+
+
+Santa, together with his elves, decides that after coding this story, they would put all their foods on the table and share. And the moral of the story is: Sharing is caring!
+
+
 
 (Emilia Tech4, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
