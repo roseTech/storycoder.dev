@@ -29,21 +29,21 @@ Number of big fish, medium fish and small fish needed
 for every explorer to have least 117 pieces of big fish, medium fish and small fish.
 
 ### Start:
-Explorer 1	1st Big fish piece 1	1st Big fish piece 9	1st Big fish piece 17	1st Medium fish piece 6	1st Small fish piece 3
+Explorer 1:	1st Big fish piece 1:	1st Big fish piece 9:	1st Big fish piece 17:	1st Medium fish piece 6:	1st Small fish piece 3
 
-Explorer 2	1st Big fish piece 2	1st Big fish piece 10	1st Big fish piece 18	1st Medium fish piece 7	1st Small fish piece 4
+Explorer 2:	1st Big fish piece 2:	1st Big fish piece 10:	1st Big fish piece 18:	1st Medium fish piece 7:	1st Small fish piece 4
 
-Explorer 3	1st Big fish piece 3	1st Big fish piece 11	1st Big fish piece 19	1st Medium fish piece 8	1st Small fish piece 5
+Explorer 3:	1st Big fish piece 3:	1st Big fish piece 11:	1st Big fish piece 19:	1st Medium fish piece 8:	1st Small fish piece 5
 
-Explorer 4	1st Big fish piece 4	1st Big fish piece 12	1st Medium fish piece 1	1st Medium fish piece 9	2nd Big fish piece 1
+Explorer 4:	1st Big fish piece 4:	1st Big fish piece 12:	1st Medium fish piece 1: 1st Medium fish piece 9:	2nd Big fish piece 1
 
-Explorer 5	1st Big fish piece 5	1st Big fish piece 13	1st Medium fish piece 2	1st Medium fish piece 10	2nd Big fish piece 2
+Explorer 5:	1st Big fish piece 5:	1st Big fish piece 13:	1st Medium fish piece 2: 1st Medium fish piece 10:	2nd Big fish piece 2
 
-Explorer 6	1st Big fish piece 6	1st Big fish piece 14	1st Medium fish piece 3	1st Medium fish piece 11	…
+Explorer 6:	1st Big fish piece 6:	1st Big fish piece 14:	1st Medium fish piece 3: 1st Medium fish piece 11:	…
 
-Explorer 7	1st Big fish piece 7	1st Big fish piece 15	1st Medium fish piece 4	1st Small fish piece 1	…
+Explorer 7:	1st Big fish piece 7:	1st Big fish piece 15:	1st Medium fish piece 4: 1st Small fish piece 1:	…
 
-Explorer 8	1st Big fish piece 8	1st Big fish piece 16	1st Medium fish piece 5	1st Small fish piece ) 
+Explorer 8:	1st Big fish piece 8:	1st Big fish piece 16:	1st Medium fish piece 5: 1st Small fish piece ):
 	…
 	
 (Human and ChatGPT 3.0, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
