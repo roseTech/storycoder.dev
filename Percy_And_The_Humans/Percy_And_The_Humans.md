@@ -1,4 +1,4 @@
-### Percy and the Humans
+# Percy and the Humans
 Once upon a time, we write the year 3022, November 30, in a land far, far away, there lived a penguin named Percy. Percy lived in a small, cozy igloo at the edge of the frozen tundra. He spent his days fishing for krill and swimming in the icy waters of the Arctic Ocean.
 One day, while out fishing, Percy stumbled upon a group of 8 explorers who were lost in the vast expanse of the frozen north. The explorers were cold, hungry, and scared, but Percy was determined to help them.
 With his sharp eyes and keen sense of direction, Percy led the explorers back to his igloo. There, he shared his small, medium and big-sized fish and warm blubber with the grateful travelers sitting around the bond fire 🔥, saving their lives.
@@ -10,14 +10,14 @@ From that moment on Percy lived the rest of his days in comfort and happiness, s
 The end.
 #Take a Guess. Non-Codable Questions:
 1) How do you think people 1000 years from now will look at artificial intelligence (AI) of today?
-# Documentation:
+### Documentation:
 - 8 explorers sit around bond fire
 - Passing around in this order:
 - Big fish with 19 pieces
 - Medium fish with 11 pieces
 - Small bish with 5 pieces
 
-# Print: Number of big fish, medium fish and small fish needed
+### Print: Number of big fish, medium fish and small fish needed
 for every explorer to have least 117 pieces of big fish, medium fish and small fish.
 Start:
 Explorer 1	1st Big fish piece 1	1st Big fish piece 9	1st Big fish piece 17	1st Medium fish piece 6	1st Small fish piece 3
