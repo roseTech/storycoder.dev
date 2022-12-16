@@ -7,6 +7,8 @@ Story Content: descriptive, narration
 Story Genre: Schnee, Aufräumen, Wunder
 ---
 
+# Snow Everywhere
+
 Es schneit, schon seit Tagen. Eine schöne, dicke Schneedecke hat sich inzwischen
 über alle Wege, Häuser und Bäume gelegt. Sie dämpft die Schritte. Viele grinsen,
 wenn es unter ihren Stiefeln knirscht. Manche laufen extra langsam und suchen
@@ -24,3 +26,12 @@ großzügig über Allem aus: über den Tisch, das Bett, die Spüle und das Regal
 Endlich setze ich mich zufrieden auf mein Sofa und genieße das Wunder der weißen
 Decke. Sauber und friedlich von schneeweißen Decken zugeschneit, liegt meine
 Wohnung vor mir.
+
+- Der Tisch is oval, eine Halbachse is 1.1 Meter, die andere Halbachse ist 2.4 Meter lang.
+- Das Bett ist rechteckig, hat eine Länge von 210 Centimeter und eine Breite von 80 Centimeter.
+- Das Regal sieht aus wie ein Hexagon, mit einer Seitenlänge von 90 Centimeter.
+- Die Spüle ist rund und hat einen Durchmesser von 50 Centimeter.
+
+Wieviel Quadratmeter (aufrunden zur nächsten ganzen Zahl) weißes Leinen muss ich aus Helgas Ballen rausnehmen, damit ich alles abdecken kann?
+
+<div data-solution="13"></div>
