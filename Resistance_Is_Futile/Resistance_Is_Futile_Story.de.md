@@ -7,6 +7,8 @@ Story Content: love story, descriptive, narration
 Story Genre: Tasche, Geschenk, Überraschung
 ---
 
+# Resistance Is Futile
+
 Als ich die Tasche öffne, war der Typ schon seit einer Viertelstunde weg. Der
 würde wohl nicht mehr wieder zurück kommen. Wieso nur hatte er die schöne
 Ledertasche stehenlassen. Auch egal, jetzt hieß es: Spurensuche betreiben.
