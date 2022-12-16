@@ -1,4 +1,14 @@
+---
+Author: Human and ChatGPT 3.0
+License: CC BY-NC-SA 4.0
+Coding Level:
+Coding Ideas:
+Story Content:
+Story Genre:
+---
+
 # Percy and the Humans
+
 Once upon a time, we write the year 3022, November 30, in a land far, far away, there lived a penguin named Percy. Percy lived in a small, cozy igloo at the edge of the frozen tundra. He spent his days fishing for krill and swimming in the icy waters of the Arctic Ocean.
 
 One day, while out fishing, Percy stumbled upon a group of 8 explorers who were lost in the vast expanse of the frozen north. The explorers were cold, hungry, and scared, but Percy was determined to help them.
@@ -15,20 +25,25 @@ At last, they reached the safety of a nearby town, where they were welcomed with
 From that moment on Percy lived the rest of his days in comfort and happiness, surrounded by friends and loved ones. He never forgot his humble beginnings, and remained grateful for the adventures that had led him to his new home.
 The end.
 
-### Take a Guess. Non-Codable Questions:
-1) How do you think people 1000 years from now will look at artificial intelligence (AI) of today?
-### Documentation:
+## Take a Guess. Non-Codable Questions:
+
+How do you think people 1000 years from now will look at artificial intelligence (AI) of today?
+
+## Documentation
+
 - 8 explorers sit around bond fire
 - Passing around in this order:
-- Big fish with 19 pieces
-- Medium fish with 11 pieces
-- Small bish with 5 pieces
+  - Big fish with 19 pieces
+  - Medium fish with 11 pieces
+  - Small fish with 5 pieces
 
-### Print: 
+## Print
+
 Number of big fish, medium fish and small fish needed
 for every explorer to have least 117 pieces of big fish, medium fish and small fish.
 
-### Start:
+## Start
+
 Explorer 1:	1st Big fish piece 1:	1st Big fish piece 9:	1st Big fish piece 17:	1st Medium fish piece 6:	1st Small fish piece 3
 
 Explorer 2:	1st Big fish piece 2:	1st Big fish piece 10:	1st Big fish piece 18:	1st Medium fish piece 7:	1st Small fish piece 4
@@ -45,5 +60,3 @@ Explorer 7:	1st Big fish piece 7:	1st Big fish piece 15:	1st Medium fish piece 4
 
 Explorer 8:	1st Big fish piece 8:	1st Big fish piece 16:	1st Medium fish piece 5: 1st Small fish piece ):
 	…
-	
-(Human and ChatGPT 3.0, adapted by StoryCoder.dev under creative commons license CC BY-NC-SA 4.0 International)
