@@ -1,5 +1,5 @@
 ---
-Author: Human and ChatGPT 3.0
+Author: Lilly-Elaia-ReedCode and ChatGPT 3.0
 License: CC BY-NC-SA 4.0
 Coding Level:
 Coding Ideas:
