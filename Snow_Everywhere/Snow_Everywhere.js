@@ -8,7 +8,7 @@ function areaRectangle(width, length) {
 }
 
 function areaHexagon(side) {
-    return (3.0 * Math.sqrt(3) * Math.pow(side, 2.0)) / 2.0;
+    return (3.0 * Math.sqrt(3.0) * Math.pow(side, 2.0)) / 2.0;
 }
 
 function areaCircle(radius) {
