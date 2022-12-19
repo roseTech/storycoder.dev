@@ -37,3 +37,51 @@ fällt, stehen mir Tränen in den Augen. Ich muss blinzeln als der auf einmal ga
 nicht mehr so unbekannte Typ plötzliche vor mir steht und sich grinsend eine
 Perücke vom Kopf zieht und meint: "Ich wusste, dass du nicht widerstehen
 würdest!"
+
+Mache eine Zeichnung vom Geschenk um herauszuinfden um was es sich handelt. Die
+Zeichnung besteht aus Linien und Kreisen. Eine Linie hat ein Startpunkt (X1/Y1)
+und ein Endpunkt (X2/Y2). Ein Kreis hat ein Zentrum (X/Y) und ein Radius (R).
+Ein Punkt ist definiert durch zwei Koordinaten, die X-Koordinate und die
+Y-Koordinate. Die X-Koordinate gibt den Abstand zum linken Rand an, die
+Y-Koordinate gibt den Abstand zu oberen Rand an. Links oben auf der Zeichnung
+ist der Punkt 0/0 und Rechts unten auf der Zeichnung ist der Punkt 100/100.
+
+Beispiel: Folgende Linie geht von Links oben, nach rechts unten.
+
+```
+x1: 0, y1: 0, x2: 100, y2: 100
+```
+
+Die folgenden Linien und Kreise sind Teil des Rätsels.
+
+Linien
+
+```
+x1: 50, y1: 40, x2: 60, y2: 20
+x1: 50, y1: 40, x2: 40, y2: 20
+x1: 30, y1: 20, x2: 40, y2: 20
+x1: 40, y1: 20, x2: 60, y2: 20
+x1: 60, y1: 20, x2: 70, y2: 20
+x1: 70, y1: 20, x2: 50, y2: 40
+x1: 50, y1: 40, x2: 30, y2: 20
+x1: 30, y1: 20, x2: 35, y2: 10
+x1: 70, y1: 20, x2: 65, y2: 10
+x1: 35, y1: 10, x2: 65, y2: 10
+x1: 35, y1: 10, x2: 40, y2: 20
+x1: 65, y1: 10, x2: 60, y2: 20
+x1: 40, y1: 20, x2: 50, y2: 10
+x1: 50, y1: 10, x2: 60, y2: 20
+```
+
+Kreise
+
+```
+x: 50, y: 60, r: 35
+x: 50, y: 60, r: 25
+```
+
+Was ist das "Unwiderstehliche Geschenk"?
+
+Das Wort besteht aus 4 Grossbuchstaben.
+
+<div data-solution="RING"></div>
