@@ -7,7 +7,7 @@ Story Content: lilies, rainbow trout, shark
 Story Genre: poetry
 ---
 
-# Antheias Garden
+# Antheias Garden Part 2
 
 Antheia was walking through a colorful garden and somehow had an odd feeling that there is something missing. There was a tree 🌳, many stones 🪨, even some lizards 🦎 which already found their way into this odoriferous spot.
 A pond 🌊! Antheia was powerful enough to wish a tiny pond into existence. Minutes later, ten rainbow trouts 🐟 already found a new home.
