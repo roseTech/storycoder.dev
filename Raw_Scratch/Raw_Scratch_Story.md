@@ -48,21 +48,23 @@ He tells Scratch that he could set up at Central park along 59th St., and will r
 
 # Documentation: 
 
-At Empire State Building:
+### At Empire State Building:
 Up until today: Rapper Raw Scratch sells tapes for $5, 10% of that goes to manager Mikey
 Raps during Prime Time: 2pm to 6 pm: 12 sales tapes / hours (50& more sales than off prime hours)
 Raps during Off Prime hours: 10 am to 2 pm. And 6pm to 8pm: 8 sales tapes / hour
 Additionally: 3 sales tapes / hour on pedestrians, Raw Scratch keeps all profits from those
 vs.
-New competitor: Rapper Temple Thug sells tapes for $5, offers Mikey flat rate of $30
+### New competitor: Rapper Temple Thug sells tapes for $5, offers Mikey flat rate of $30
 Raps during Prime Time: 2pm to 6 pm:
 
-New offer from manager Slug with new location Central Park:
+### New offer from manager Slug with new location Central Park:
 Rapper Raw Scratch: 20% of profit goes to manager Slug
-Raps during Prime Time: 2pm to 6 pm: x sales tapes / hours (50& more sales than off prime hours) 
+Raps during Prime Time: 2pm to 6 pm: x sales tapes / hours (50 % more sales than off prime hours) 
 Raps during Off Prime hours: 10 am to 2 pm. And 6pm to 8pm: x sales tapes / hour
 Additionally: 3 sales tapes / hour on pedestrians, Raw Scratch keeps all profits from those
-Questions: 1) How many tapes per hour during Prime Time and Off Time should Raw Scratch sell 
+
+### Questions: 
+1) How many tapes per hour during Prime Time and Off Time should Raw Scratch sell 
 to make this the better proposition compared to Raw Scratches old offer and Rapper Temple Thugs offer
 (assuming the same amount of non-tour affiliated sales and the same ratio of prime time and off time sales)? 
 2) How many tapes per hour during 4 hours of Prime Time should Raw Scratch sell 
