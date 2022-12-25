@@ -1,6 +1,5 @@
 
 import matplotlib.pyplot as plt  # pip3 install matplotlib
-import numpy as np  # pip3 install numpy
 
 # set initial values
 p0 = .5  # initial population of plants

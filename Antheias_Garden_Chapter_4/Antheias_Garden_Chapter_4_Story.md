@@ -26,4 +26,6 @@ full-moon 🌕? How many trouts and sharks?
 
 Hints:
 
+- https://hypertextbook.com/chaos/logistic/
+
 <div data-solution="?"></div>
