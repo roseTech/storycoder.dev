@@ -2,7 +2,7 @@
 Author: Noctiluca
 License: CC BY-NC-SA 4.0
 Coding Level: advanced
-Coding Ideas: logisitic equation, animals
+Coding Ideas: logisitic equation, differential equation, forward euler, exponential
 Story Content:
 Story Genre:
 ---
