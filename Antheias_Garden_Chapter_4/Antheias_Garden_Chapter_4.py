@@ -2,19 +2,19 @@
 import matplotlib.pyplot as plt  # pip3 install matplotlib
 
 # set initial values
-p0 = .5  # initial population of plants
-a0 = .2  # initial population of prey
-h0 = .02  # initial population of predators
+p0 = 0.5  # initial population of plants
+a0 = 0.2  # initial population of prey
+h0 = 0.01  # initial population of predators
 
 # set growth rates
-r1 = 3  # plant growth rate
-r2 = 4  # prey growth rate
-r3 = 4.5  # predator growth rate
+r1 = 3.0  # plant growth rate
+r2 = 4.0  # prey growth rate
+r3 = 5.0  # predator growth rate
 
 # set carrying capacities
-k1 = 1  # plant carrying capacity
-k2 = 1  # prey carrying capacity
-k3 = 1  # predator carrying capacity
+k1 = 1.0  # plant carrying capacity
+k2 = 1.0  # prey carrying capacity
+k3 = 1.0  # predator carrying capacity
 
 # set time steps
 t = 30
