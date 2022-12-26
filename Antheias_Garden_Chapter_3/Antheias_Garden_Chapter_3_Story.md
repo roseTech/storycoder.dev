@@ -10,7 +10,7 @@ Story Genre:
 # Antheias Garden - Chapter 3
 
 The pond did not leave her mind, there was something about it, she never
-experienced herself. The lillies were bigger and more colorful than she expected
+experienced herself. The lilies were bigger and more colorful than she expected
 and there where almost too many fishes already in it. Did she put too much of
 her own inner essence into this garden? Was it the soil? Was the sun different
 here? The breeze from the sea not that far away? It would almost be a fishers
@@ -18,7 +18,7 @@ paradise here.
 
 Should she adjust natures path slightly? But nature would balance itself, not?
 This strange thoughts came up again, like with the petals some days ago. Are
-there some hidden forces, beyond every godess and god?
+there some hidden forces, beyond every goddess and god?
 
 At the moment there were 200 rainbow trouts in the pond (initial population). It
 was impossible that there were more than 400 rainbow trouts in the pond

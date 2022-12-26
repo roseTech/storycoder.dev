@@ -17,7 +17,7 @@ pattern too perfect to be random.
 
 An Iris, a Hibiscus, a Ficaria Verna, a Rudbeckia Hirta, ... The Iris had 3
 Petals, the Hibiscus 5 Petals, the Ficaria 8 Petals and it continued like this 13,
-21, 34, ... petals. The flowers themselve arranged in an spiral.
+21, 34, ... petals. The flowers themselves arranged in an spiral.
 
 How many petals does the 20th flower have in this arrangement?
 
@@ -26,7 +26,7 @@ How many petals does the 20th flower have in this arrangement?
 Hint
 
 - This sequence is called the fibonacci numbers
-- Use either a recurisive function
+- Use either a recursive function
 - Or a loop to do the calculation
 
 How many petals does the 100th flower have?
@@ -40,7 +40,7 @@ Hint
 
 But who was this? Is there another goddess playing a game with her?
 
-Demeter? The godess of grains. Did she plant this spiral?
+Demeter? The goddess of grains. Did she plant this spiral?
 
 Iris? The first flower she noticed was called after the godess herself. Or maybe
 Iris was just bringing an hidden message from another god, she did not
@@ -69,6 +69,6 @@ What is this number? (with 5 digits of precision)
 
 <div data-solution="1.61803"></div>
 
-Maybe she should ask Athena about this. Athena was the most clever entitiy she
+Maybe she should ask Athena about this. Athena was the most clever entity she
 knew. The most merciless strategista in the Olymp. Or Prometheus and ease his
 pain for at least some time?

@@ -13,7 +13,12 @@ Would it be possible for her to ask Athena for some wisdom? There something
 simpler she could try first. She knew that in Mykene there was a library,
 supposedly full of wisdom from the gods, written down by fallible humans.
 
-Countless hours she read from the first dusk till dawn. One realization she made quite early, that her model was too simplistic. The lillies in the pond were attracting insects and the insects themselves where prey for the rainbow trouts. Despite this lingering feeling, that she quite likely never fully would understand how to laws of nature work or which godess or even titan was behing all of this, she still was happy about her better approach:
+Countless hours she read, from first dusk till dawn. One realization she made
+quite early, that her model was too simplistic. The lilies in the pond were
+attracting insects and the insects themselves where prey for the rainbow trouts.
+Despite this lingering feeling, that she quite likely never fully would
+understand how the laws of nature work or which goddess or even titan was behind
+all of this, she still was happy about her better approach:
 
 - 50% of the pond are filled with lilies about 500. and they triple every day.
 - There are 200 (20% full) hungry insects and each eat 1 lily pad a day. They
