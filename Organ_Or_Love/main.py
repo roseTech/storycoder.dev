@@ -34,4 +34,3 @@ print('median value', median(types_and_faces.values()))
 
 labels = sorted(types_and_faces, key=types_and_faces.get)
 print('median pearls', labels[(len(labels) - 1) // 2])
-
