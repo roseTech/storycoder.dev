@@ -19,8 +19,10 @@ See [README](README.md)
 | Dart        | https://dart.dev/get-dart                                                                                |
 | Erlang      | `apt install erlang` <br> `escript story.erl`                                                            |
 | Go          | `apt install golang` <br> `go run story.go`                                                              |
+| Haskell     | `apt install ghc` <br> `ghc story.hs && ./story`                                                         |
 | JavaScript  | `apt install nodejs` <br> `node story.js`                                                                |
 | Perl        | `apt install perl` <br> `perl story.pl`                                                                  |
+| Prolog      | `apt install prolog` <br> `gprolog --consult-file story.pro`                                             |
 | Python      | `apt install python3` <br> `python3 story.py`                                                            |
 | Ruby        | `apt install ruby` <br> `ruby story.rb`                                                                  |
 | Rust        | `apt install rustc` <br> `rustc story.rs && ./story`                                                     |
