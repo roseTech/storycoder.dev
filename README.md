@@ -170,7 +170,7 @@ First and foremost a huge thank you goes to all and every single one of you who 
 (sorted alphabetically)
 
 | Language    | Webpages                                                |
-|-------------|---------------------------------------------------------|
+| ----------- | ------------------------------------------------------- |
 | Bash        | https://www.mycompiler.io/new/bash                      |
 | C#          | https://dotnetfiddle.net                                |
 | C++         | https://www.onlinegdb.com/online_c++_compiler/          |
@@ -178,6 +178,7 @@ First and foremost a huge thank you goes to all and every single one of you who 
 | Dart        | https://dartpad.dev/                                    |
 | Erlang      | https://onecompiler.com/erlang                          |
 | Go          | https://www.onlinegdb.com/online_go_compiler            |
+| Haskell     | https://replit.com/languages/haskell                    |
 | Java        | https://www.sololearn.com/compiler-playground/java      |
 | JavaScript  | https://playcode.io/javascript                          |
 | Kotlin      | https://play.kotlinlang.org                             |
