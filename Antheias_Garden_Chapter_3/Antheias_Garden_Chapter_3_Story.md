@@ -1,10 +1,15 @@
 ---
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
 Coding Level: advanced
 Coding Ideas: logisitic equation, differential equation, forward euler, exponential
-Story Content:
+Category: story
+Title: Antheias Garden - Chapter 3
 Story Genre:
+Story Content:
+Author: Noctiluca
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Antheias Garden - Chapter 3

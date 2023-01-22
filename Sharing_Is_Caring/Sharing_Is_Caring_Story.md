@@ -1,10 +1,15 @@
 ---
-Author: Emilia Tech4
-License: CC BY-NC-SA 4.0
 Coding Level:
 Coding Ideas:
-Story Content:
+Category: story
+Title: Sharing is Caring
 Story Genre:
+Story Content:
+Author: Emilia Tech4
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Sharing is Caring

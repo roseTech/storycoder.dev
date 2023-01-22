@@ -1,10 +1,15 @@
 ---
-Author: jisifu
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: purloined algorithm
+Category: story
+Title: Purloined Algorithm
 Story Content: mystery, deduction, detective
 Story Genre: historical fiction, detective story
+Author: jisifu
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Purloined Algorithm

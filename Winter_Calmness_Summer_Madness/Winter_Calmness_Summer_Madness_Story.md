@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level: medium
 Coding Ideas: loop for, sum up list
+Category: story
+Title: Winter Calmness - Summer Madness
 Story Content: snow, winter, calmness, summer, traffic
 Story Genre: introspection
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Winter Calmness - Summer Madness

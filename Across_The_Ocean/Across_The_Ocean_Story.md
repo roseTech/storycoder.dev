@@ -1,10 +1,15 @@
 ---
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
 Coding Level: simple
 Coding Ideas: sum, division, modulo, time
+Category: story
+Title: Across The Ocean
 Story Content: children, animal, water, friendship, adventure
 Story Genre: fantasy, children
+Author: Noctiluca
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Across The Ocean

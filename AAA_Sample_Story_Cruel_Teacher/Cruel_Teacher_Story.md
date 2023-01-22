@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: loop for, sum up list
+Category: story
+Title: Cruel Teacher
 Story Content: teacher, coffee, exam
 Story Genre: comedy
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Cruel Teacher 🧙‍♀️🧹📝

@@ -1,10 +1,15 @@
 ---
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: loop, array, derivative
+Category: story
+Title: Erin the Pangolin
 Story Content: animal, pangolin, mountain
 Story Genre: fiction, family story
+Author: Noctiluca
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Erin the Pangolin

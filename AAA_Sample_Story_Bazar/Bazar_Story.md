@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: increment, decrement, difference
+Category: story
+Title: Bazar
 Story Content: market, bazar, buying, shopping
 Story Genre: descriptive
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Bazar

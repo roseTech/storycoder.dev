@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level:
 Coding Ideas:
-Story Content:
+Category: story
+Title: Ode to a Night In Coder
 Story Genre:
+Story Content:
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Ode to a Night In Coder

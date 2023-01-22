@@ -1,10 +1,15 @@
 ---
-Author: jisifu
-License: CC BY-NC-SA 4.0
 Coding Level: professional
 Coding Ideas: logisitc equations
+Category: story
+Title: Antheias Garden - Chapter 4
 Story Content: lilies, rainbow trout, shark
 Story Genre: poetry
+Author: jisifu
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Antheias Garden - Chapter 4

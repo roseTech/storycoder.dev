@@ -1,11 +1,17 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: loop for, sum up list
+Category: story
+Title: Winter Beauty
 Story Content: snow, winter, calmness, summer, traffic
 Story Genre: introspection
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
+
 # This section shows that a person can write a story without a code to solve in it; just a normal story without a riddle in it. Later, another person can implement a new paragraph into the story where there IS a code to solve in it. A third person can then write the code solutions in any programming language possible.  
 # Example How To Implement Code Winter Beauty
 

@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0
 Coding Level: medium
 Coding Ideas: if clauses, run time, changing characters in string
+Category: story
+Title: Utterty and Flutterty
 Story Content: butterflies, fluttering, love, Shakespeare, dating
 Story Genre: love story, comedy
+Author: Lilly-Elaia-ReedCode
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Utterty and Flutterty 🦋♥️🦋 

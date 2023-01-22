@@ -1,10 +1,15 @@
 ---
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
 Coding Level: medium
 Coding Ideas: exponential, roots, factor
+Category: story
+Title: Johanns Harp
 Story Content: harp, music, instrument, inspiration
 Story Genre: descriptive, narration
+Author: Noctiluca
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Johanns Harp

@@ -1,10 +1,15 @@
 ---
-Author: Frau Blau
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas:
+Category: story
+Title: Resistance Is Futile
 Story Content: love story, descriptive, narration
 Story Genre: Tasche, Geschenk, Überraschung
+Author: Frau Blau
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Resistance Is Futile

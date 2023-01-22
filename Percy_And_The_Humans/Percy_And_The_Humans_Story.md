@@ -1,10 +1,15 @@
 ---
-Author: Lilly-Elaia-ReedCode and ChatGPT 3.0
-License: CC BY-NC-SA 4.0
 Coding Level:
 Coding Ideas:
-Story Content:
+Category: story
+Title: Percy and the Humans
 Story Genre:
+Story Content:
+Author: Lilly-Elaia-ReedCode and ChatGPT 3.0
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Percy and the Humans

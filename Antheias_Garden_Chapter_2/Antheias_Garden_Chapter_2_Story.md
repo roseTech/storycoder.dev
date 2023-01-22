@@ -1,10 +1,15 @@
 ---
-Author: Noctiluca
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas: fibonacci
+Category: story
+Title: Antheias Garden - Chapter 2
 Story Content: flowers
 Story Genre:
+Author: Noctiluca
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Antheias Garden - Chapter 2

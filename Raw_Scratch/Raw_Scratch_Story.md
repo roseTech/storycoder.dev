@@ -1,10 +1,15 @@
 ---
-Author: Fred Sauce
-License: CC BY-NC-SA 4.0
 Coding Level: medium
-Coding Ideas: loop for, sum up,
+Coding Ideas: loop for, sum up
+Category: story
+Title: Raw Scratch
 Story Content: new york, rap music, sales and profits, business, tourists
 Story Genre: drama
+Author: Fred Sauce
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Raw Scratch

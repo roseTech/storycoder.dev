@@ -1,10 +1,15 @@
 ---
-Author: Frau Blau
-License: CC BY-NC-SA 4.0
 Coding Level: beginner
 Coding Ideas:
+Category: story
+Title: Snow Everywhere
 Story Content: descriptive, narration
 Story Genre: Schnee, Aufräumen, Wunder
+Author: Frau Blau
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
+Language: en
 ---
 
 # Snow Everywhere
