@@ -2,11 +2,13 @@
 Coding Level: medium
 Coding Ideas: loop for, sum up
 Category: story
-Title: organ or love
+Title: Organ or Love
 Story Genre: love story, introspection
 Story Content: love, pearls, break up, new start
 Author: Lilly-Elaia-ReedCode
-License: CC BY-NC-SA 4.0 International 
+Story License: CC BY-NC-SA 4.0 International 
+Picture License:
+Picture Source:
 ---
 
 # Organ or Love?
