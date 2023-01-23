@@ -9,10 +9,10 @@ Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International 
 Picture License:
 Picture Source:
-Language: en
+Language: de
 ---
 
-# Resistance Is Futile
+# Widerstand ist Zwecklos
 
 Als ich die Tasche öffne, war der Typ schon seit einer Viertelstunde weg. Der
 würde wohl nicht mehr wieder zurück kommen. Wieso nur hatte er die schöne

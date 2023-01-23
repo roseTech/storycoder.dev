@@ -9,10 +9,10 @@ Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International 
 Picture License:
 Picture Source:
-Language: en
+Language: de
 ---
 
-# Snow Everywhere
+# Überall Schnee
 
 Es schneit, schon seit Tagen. Eine schöne, dicke Schneedecke hat sich inzwischen
 über alle Wege, Häuser und Bäume gelegt. Sie dämpft die Schritte. Viele grinsen,
