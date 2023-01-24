@@ -6,9 +6,9 @@ Title: Cruel Teacher
 Story Content: teacher, coffee, exam
 Story Genre: comedy
 Author: Lilly-Elaia-ReedCode
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

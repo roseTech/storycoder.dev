@@ -6,9 +6,9 @@ Title: Raw Scratch
 Story Content: new york, rap music, sales and profits, business, tourists
 Story Genre: drama
 Author: Fred Sauce
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 
@@ -51,7 +51,7 @@ He tells Scratch that he could set up at Central park along 59th St., and will r
 1) Show how many tapes Raw Scratch should hope to sell per hour to make this the better proposition, (assuming the same amount of non-tour affiliated sales and the same ratio of prime time and off time sales) ?
 2) And how many tapes should be sold in order to make 2x his original deal in the same stretch of time of 4 hours during prime time? See documentation below:
 
-# Documentation: 
+# Documentation:
 
 ### At Empire State Building:
 Up until today: Rapper Raw Scratch sells tapes for $5, 10% of that goes to manager Mikey
@@ -64,16 +64,15 @@ Raps during Prime Time: 2pm to 6 pm:
 
 ### New offer from manager Slug with new location Central Park:
 Rapper Raw Scratch: 20% of profit goes to manager Slug
-Raps during Prime Time: 2pm to 6 pm: x sales tapes / hours (50 % more sales than off prime hours) 
+Raps during Prime Time: 2pm to 6 pm: x sales tapes / hours (50 % more sales than off prime hours)
 Raps during Off Prime hours: 10 am to 2 pm. And 6pm to 8pm: x sales tapes / hour
 Additionally: 3 sales tapes / hour on pedestrians, Raw Scratch keeps all profits from those
 
-### Questions: 
-1) How many tapes per hour during Prime Time and Off Time should Raw Scratch sell 
+### Questions:
+1) How many tapes per hour during Prime Time and Off Time should Raw Scratch sell
 to make this the better proposition compared to Raw Scratches old offer and Rapper Temple Thugs offer
-(assuming the same amount of non-tour affiliated sales and the same ratio of prime time and off time sales)? 
-2) How many tapes per hour during 4 hours of Prime Time should Raw Scratch sell 
+(assuming the same amount of non-tour affiliated sales and the same ratio of prime time and off time sales)?
+2) How many tapes per hour during 4 hours of Prime Time should Raw Scratch sell
 in order to make 2x his own original deal?
 
 # Hints:
-

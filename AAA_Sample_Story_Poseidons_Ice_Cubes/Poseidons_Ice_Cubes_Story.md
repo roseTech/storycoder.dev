@@ -6,9 +6,9 @@ Title: Poseidons Ice Cubes
 Story Content: greek god, poseidon, temperature, water, seize the day
 Story Genre: historical fiction
 Author: Lilly-Elaia-ReedCode
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

@@ -6,13 +6,13 @@ Title: Utterty and Flutterty
 Story Content: butterflies, fluttering, love, Shakespeare, dating
 Story Genre: love story, comedy
 Author: Lilly-Elaia-ReedCode
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 
-# Utterty and Flutterty 🦋♥️🦋 
+# Utterty and Flutterty 🦋♥️🦋
 
 On a perfect summer evening, flying around as if love never ends, dreaming
 beyond as if love never sleeps and fluttering around as if love never lands,
@@ -29,7 +29,7 @@ Flutterty will meet on Monday already; if he takes more than 30 sec she will
 meet on Tuesday, if he lists the lines with every letter instead of every second
 letter she will meet on Wednesday; otherwise she’s not interested in dating
 Utterty 🥲! Utterty of course is flabbergasted, but quickly thinks of all
-possible outcomes. Print all of them. 
+possible outcomes. Print all of them.
 
 Shakespeare, Sonnet 116
 

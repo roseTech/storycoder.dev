@@ -6,9 +6,9 @@ Title: Text Message to a Crush
 Story Genre:
 Story Content:
 Author: Justin Tyme
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

@@ -6,9 +6,9 @@ Title: Across The Ocean
 Story Content: children, animal, water, friendship, adventure
 Story Genre: fantasy, children
 Author: Noctiluca
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

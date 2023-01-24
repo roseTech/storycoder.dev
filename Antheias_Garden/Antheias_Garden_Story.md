@@ -6,9 +6,9 @@ Title: Antheias Garden - Chapter 1
 Story Content: greek goddess, moon, flowers
 Story Genre: historical fiction
 Author: Noctiluca
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

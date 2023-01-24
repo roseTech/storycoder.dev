@@ -6,9 +6,9 @@ Title: Snow Everywhere
 Story Content: descriptive, narration
 Story Genre: Schnee, Aufräumen, Wunder
 Author: Frau Blau
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: de
 ---
 

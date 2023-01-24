@@ -6,9 +6,9 @@ Title: Johanns Harp
 Story Content: harp, music, instrument, inspiration
 Story Genre: descriptive, narration
 Author: Noctiluca
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

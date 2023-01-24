@@ -6,9 +6,9 @@ Title: Antheias Garden - Chapter 4
 Story Content: lilies, rainbow trout, shark
 Story Genre: poetry
 Author: jisifu
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

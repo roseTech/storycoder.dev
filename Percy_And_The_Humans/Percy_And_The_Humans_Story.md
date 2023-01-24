@@ -6,9 +6,9 @@ Title: Percy and the Humans
 Story Genre:
 Story Content:
 Author: Lilly-Elaia-ReedCode and ChatGPT 3.0
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 

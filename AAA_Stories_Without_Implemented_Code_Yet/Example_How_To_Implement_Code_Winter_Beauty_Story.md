@@ -6,13 +6,13 @@ Title: Winter Beauty
 Story Content: snow, winter, calmness, summer, traffic
 Story Genre: introspection
 Author: Lilly-Elaia-ReedCode
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 
-# This section shows that a person can write a story without a code to solve in it; just a normal story without a riddle in it. Later, another person can implement a new paragraph into the story where there IS a code to solve in it. A third person can then write the code solutions in any programming language possible.  
+# This section shows that a person can write a story without a code to solve in it; just a normal story without a riddle in it. Later, another person can implement a new paragraph into the story where there IS a code to solve in it. A third person can then write the code solutions in any programming language possible.
 # Example How To Implement Code Winter Beauty
 
 The version 1 of the story below contains no code to solve yet. This is why it

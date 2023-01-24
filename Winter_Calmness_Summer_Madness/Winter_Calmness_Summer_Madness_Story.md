@@ -6,9 +6,9 @@ Title: Winter Calmness - Summer Madness
 Story Content: snow, winter, calmness, summer, traffic
 Story Genre: introspection
 Author: Lilly-Elaia-ReedCode
-Story License: CC BY-NC-SA 4.0 International 
-Picture License:
-Picture Source:
+Story License: CC BY-NC-SA 4.0 International
+Image License:
+Image Source:
 Language: en
 ---
 
