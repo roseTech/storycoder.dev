@@ -1,6 +1,7 @@
 import re
 
 # by a.l.e
+# ArT was HiR
 
 poem = '''
 1. Coder Coder, typing bright,
@@ -24,17 +25,26 @@ poem = '''
 16. and the codes that you inspire.
 '''.strip()
 
-def min_and_max_line_lengths(lines):
-    min = len(lines[0])
+def get_line_length_difference(lines):
+    min = 0
     max = 0
     for line in lines:
         n = len(re.sub(r'\W', '', re.sub(r'^\d+\.\s+', '', line)))
-        if n < min:
+        if n < min or min == 0:
             min = n
-        if n > max:
+        if n > max or max == 0:
             max = n
-    return min, max
+    return max - min
+
+results=[]
 
 for paragraph in poem.split('\n\n'):
-    min, max = min_and_max_line_lengths(paragraph.split('\n'))
-    print(100 * min / max)
+    diff=(get_line_length_difference(paragraph.split('\n')))
+    results.append(diff)
+    
+print(results)
+
+index_min = min(range(len(results)), key=results.__getitem__) #find index of smallest value
+
+print(f"Answer: {index_min+1}") #+1 because list index are counted from 0
+
