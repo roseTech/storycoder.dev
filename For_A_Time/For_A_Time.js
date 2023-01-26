@@ -40,6 +40,6 @@ Thank you for the belief that to this day, could I ever go back, I’d do it all
 `;
 
 const prefix = 'Thank you for';
-const sorted = sentences.split('\n').filter($ => $.startsWith(prefix)).map($ => $.slice(prefix.length)).sort().map($ => prefix + $);
+const sorted = sentences.split('\n').filter($ => $.startsWith(prefix)).sort();
 
 console.log(sorted);
