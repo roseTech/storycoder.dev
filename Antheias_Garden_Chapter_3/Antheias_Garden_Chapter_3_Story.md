@@ -1,10 +1,10 @@
 ---
 Coding Level: advanced
-Coding Ideas: logisitic equation, differential equation, forward euler, exponential
+Coding Ideas: logisitic equation, differential equation, forward euler, exponential, population growth
 Category: story
 Title: Antheias Garden - Chapter 3
-Story Genre:
-Story Content:
+Story Content: greek goddess, flowers, animals, insects, growth
+Story Genre: historical fiction
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International
 Image License:

@@ -1,9 +1,9 @@
 ---
 Coding Level: beginner
-Coding Ideas: loop, array, derivative
+Coding Ideas: loop, array, derivative, integer
 Category: story
 Title: Erin the Pangolin
-Story Content: animal, pangolin, mountain
+Story Content: animal, pangolin, mountain, journey
 Story Genre: fiction, family story
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International

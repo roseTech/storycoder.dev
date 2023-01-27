@@ -1,10 +1,10 @@
 ---
 Coding Level: beginner
-Coding Ideas: fibonacci
+Coding Ideas: fibonacci, recursion, big integer, big number
 Category: story
 Title: Antheias Garden - Chapter 2
-Story Content: flowers
-Story Genre:
+Story Content: greek goddess, flowers, petals, pond, pattern
+Story Genre: historical fiction
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International
 Image License:

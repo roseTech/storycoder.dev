@@ -1,9 +1,9 @@
 ---
 Coding Level: medium
-Coding Ideas: exponential, roots, factor
+Coding Ideas: exponential, roots, factor, floating point
 Category: story
 Title: Johanns Harp
-Story Content: harp, music, instrument, inspiration
+Story Content: harp, piano, music, instrument, inspiration, forest
 Story Genre: descriptive, narration
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International

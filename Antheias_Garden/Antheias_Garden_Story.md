@@ -3,7 +3,7 @@ Coding Level: beginner
 Coding Ideas: exponent
 Category: story
 Title: Antheias Garden - Chapter 1
-Story Content: greek goddess, moon, flowers
+Story Content: greek goddess, moon, flowers, fish, pond
 Story Genre: historical fiction
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International

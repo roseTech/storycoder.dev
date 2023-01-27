@@ -1,10 +1,10 @@
 ---
 Coding Level: beginner
-Coding Ideas:
+Coding Ideas: draw, line, circle, coordinates
 Category: story
 Title: Resistance Is Futile
-Story Content: love story, descriptive, narration
-Story Genre: Tasche, Geschenk, Überraschung
+Story Content: tasche, geschenk, überraschung
+Story Genre: love story, descriptive, narration
 Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International
 Image License:

@@ -1,10 +1,10 @@
 ---
 Coding Level: beginner
-Coding Ideas:
+Coding Ideas: geometry, sum, round up, hexagon, rectangle, circle, ellipse
 Category: story
 Title: Snow Everywhere
-Story Content: descriptive, narration
-Story Genre: Schnee, Aufräumen, Wunder
+Story Content: schnee, aufräumen, wunder, stoff, weiss
+Story Genre: descriptive, narration
 Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International
 Image License:
@@ -37,6 +37,7 @@ Wohnung vor mir.
 - Das Regal sieht aus wie ein Hexagon, mit einer Seitenlänge von 90 Centimeter.
 - Die Spüle ist rund und hat einen Durchmesser von 50 Centimeter.
 
-Wieviel Quadratmeter (aufrunden, zur nächsten ganzen Zahl) weißes Leinen muss ich aus Helgas Ballen rausnehmen, damit ich alles abdecken kann?
+Wieviel Quadratmeter (aufrunden, zur nächsten ganzen Zahl) weißes Leinen muss
+ich aus Helgas Ballen rausnehmen, damit ich alles abdecken kann?
 
 <div data-solution="13"></div>
