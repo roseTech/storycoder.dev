@@ -40,9 +40,20 @@ This poem is dedicated to all the advanced coders who have already helped the be
 
 Thanks!
 
-Compare all the lines within a paragraph with each other in terms of letter
-length. If the longest line within a paragraph is more than 10% longer than the
-shortest line in the same paragraph, then you have to mark this paragraph. Which
-paragraphs do you have to mark?
+In each paragraph count the number of letters (without spaces and special characters) and compare
+ longest and shortest line within this paragraph. Which paragraph has the smallest difference?
+
+Example for first paragraph:
+1. Coder Coder, typing bright, = 22 letters
+2. in the darkNet of the night. = 22 letters
+3. Useful hints that we can hear, = 24 letters
+4. you provided them in here. = 21 letters
+
+Longest line = 24 letters
+Shortest line = 21 letters
+Difference = 3
 
 Additional non-codable question: To what famous poem does this poem allude to?
+
+//Answer: 1
+
