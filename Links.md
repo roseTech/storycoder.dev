@@ -25,13 +25,22 @@
 # Narration / Voice
 
 - https://uberduck.ai/
-  - https://uberduck.readme.io/
+  - API: https://uberduck.readme.io/
+  - Cost: 96$/year, unlimited
+- https://elevenlabs.io
+  - Free: 10'000 chars/month
+  - Cheapest: 60$/year, 30'000 chars/month
+- https://pypi.org/project/TTS/
+  - OpenSource
 
 # Images
 
 - https://unsplash.com/
+  - License: Free, https://unsplash.com/license
 
 # Translation
 
 - https://translate.google.com
 - https://www.deepl.com/translator
+  - Free: 3 translations/month
+  - Cost: 105$/year, unlimited translations
