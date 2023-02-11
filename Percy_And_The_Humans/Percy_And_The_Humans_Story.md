@@ -42,6 +42,9 @@ How do you think people 1000 years from now will look at artificial intelligence
   - Medium fish with 11 pieces
   - Small fish with 5 pieces
 
+![Hint 1](Hint_1.png)
+![Hint 2](Hint_2.png)
+
 ## Print
 
 Number of big fish, medium fish and small fish needed
