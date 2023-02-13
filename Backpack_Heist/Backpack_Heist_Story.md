@@ -5,7 +5,7 @@ Category: story
 Title: backpack heist
 Story Content: Heist, Knapsack, Backpack, Justice
 Story Genre: heist, murder, mystery
-Author: Heist, Knapsack, Backpack, Justice and Chat GPT 3, adapted by StoryCoder.dev
+Author: Vwing, Versatile Techie, MD and Chat GPT 3, adapted by StoryCoder.dev
 Story License: CC BY-NC-SA 4.0 International
 Image License:
 Image Source:
