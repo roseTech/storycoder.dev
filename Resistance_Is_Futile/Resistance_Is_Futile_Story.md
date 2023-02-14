@@ -7,8 +7,8 @@ Story Content: tasche, geschenk, überraschung
 Story Genre: love story, descriptive, narration
 Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International
-Image License:
-Image Source:
+Image License: CC BY-NC-SA 4.0 International
+Image Source: Invoke AI - Stable Diffusion 1.5
 Language: de
 ---
 
