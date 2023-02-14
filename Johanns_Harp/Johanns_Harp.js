@@ -1,10 +1,18 @@
-function main() {
-    const factor = Math.pow(2.0, 1.0 / 12.0); // 12th root
+const factor = Math.pow(2.0, 1 / 12); // 12th root
 
-    var product = 1.0;
-    for (var i = 0; i < 12; i += 1) {
-        product *= factor;
-    }
+console.log(factor.toFixed(5));
 
-    console.log(product);
+// check , if result is correct in three different ways
+
+var productMultiply = 1.0;
+for (var i = 0; i < 12; i += 1) {
+    productMultiply *= factor;
 }
+
+const productPow = Math.pow(factor, 12);
+
+const productReduce = new Array(12).fill(0).reduce((acc, current) => acc * factor, 1);
+
+console.log(productMultiply);
+console.log(productPow);
+console.log(productReduce);
