@@ -47,5 +47,6 @@ instrument.
 
 Hints
 
-1. `+ 6%` is the same as `* 106%`
-2. The number 98765.1234567 has 7 digits, after the floating point
+1. The number 98765.1234567 has 7 digits, after the floating point
+2. There are 13 strings mentioned, but the first one, is just the base string
+3. `+ 6%` is the same as `* 106%`
