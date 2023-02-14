@@ -41,12 +41,15 @@ digits after the floating point.
 
 <div data-solution="1.059463"></div>
 
-He would make an instrument with 88 different notes, and one should be allow to
-play it silently (piano) and loud (forte) like the animals, a piano fortissimo
-instrument.
-
 Hints
 
-1. The number 98765.1234567 has 7 digits, after the floating point
-2. There are 13 strings mentioned, but the first one, is just the base string
-3. `+ 6%` is the same as `* 106%`
+1. The solution is the *more* precise factor
+2. If the factor is 6%, the result is 2.01 (as noted in the story), somewhat too high
+3. If the factor would be 5%, the result is 1.8, too low
+4. `+ 6%` is the same as `* 106%`
+5. The number 98765.1234567 has 7 digits, after the floating point
+6. There are 13 strings mentioned, but the first one, is just the base string
+
+With this knew knowledge Johann would make an instrument with 88 different
+notes. One should be allow to play it silently (piano) and loud (forte) like the
+animals, a piano fortissimo instrument.
