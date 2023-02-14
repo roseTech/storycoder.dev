@@ -30,7 +30,10 @@
 - https://elevenlabs.io
   - Free: 10'000 chars/month
   - Cheapest: 60$/year, 30'000 chars/month
-- https://pypi.org/project/TTS/
+- https://coqui.ai
+  - https://pypi.org/project/TTS/
+  - OpenSource
+- https://github.com/neonbjb/tortoise-tts
   - OpenSource
 
 # Images
