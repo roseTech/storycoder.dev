@@ -3,7 +3,7 @@ Coding Level: simple
 Coding Ideas: sum, division, modulo, time
 Category: story
 Title: Across The Ocean
-Story Content: children, animal, water, friendship, adventure
+Story Content: children, animal, water, ocean, friendship, adventure, orca, jellyfish, octopus
 Story Genre: fantasy, children
 Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International
