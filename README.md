@@ -182,6 +182,7 @@ First and foremost a huge thank you goes to all and every single one of you who 
 | Java        | https://www.sololearn.com/compiler-playground/java      |
 | JavaScript  | https://playcode.io/javascript                          |
 | Kotlin      | https://play.kotlinlang.org                             |
+| Nim         | https://play.nim-lang.org                               |
 | Perl        | https://onecompiler.com/perl                            |
 | Prolog      | https://www.jdoodle.com/execute-prolog-online/          |
 | Python      | https://www.onlinegdb.com/online_python_compiler        |
