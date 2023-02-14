@@ -11,7 +11,7 @@ for (var i = 0; i < 12; i += 1) {
 
 const productPow = Math.pow(factor, 12);
 
-const productReduce = new Array(12).fill(0).reduce((acc, current) => acc * factor, 1);
+const productReduce = new Array(12).fill(factor).reduce((accumulator, current) => accumulator * current, 1);
 
 console.log(productMultiply);
 console.log(productPow);
