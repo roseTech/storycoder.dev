@@ -7,7 +7,7 @@ const factorPow = Math.pow(2, 1 / 12); // 12th root
 let factorNewton = 1.0; // estimation
 for (let i = 0; i < 5; i += 1) {
     // xn = x - f(x) / f'(x)
-    factorNewton = factorNewton - (((factorNewton ** 12) - 2) / (12 * factorNewton ** 11))
+    factorNewton = factorNewton - (((factorNewton ** 12) - 2) / (12 * (factorNewton ** 11)))
 }
 
 // https://en.wikipedia.org/wiki/Bisection_method
