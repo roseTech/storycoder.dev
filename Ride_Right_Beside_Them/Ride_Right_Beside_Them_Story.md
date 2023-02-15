@@ -79,8 +79,18 @@ Documentation: Print Riding Kilometers
 - Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 10 m + etc. ...
 - ...
 
-Documentation: Print every second Letter
+How long is `Egame Street`?
+
+<div data-solution="1180"></div>
+
+How long is `Stack Overflowed Way`?
+
+<div data-solution="2280"></div>
+
+If every second letter is printed out, what is the result?
 
 - Egame Street = g
 - Branch Road = r
 - ...
+
+<div data-solution="grazieperlaiuto"></div>
