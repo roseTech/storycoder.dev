@@ -1,14 +1,5 @@
 
-// calculate factor, in three different ways
-
-const factorPow = Math.pow(2, 1 / 12); // 12th root
-
-// https://en.wikipedia.org/wiki/Newton%27s_method
-let factorNewton = 1.0; // estimation
-for (let i = 0; i < 5; i += 1) {
-    // xn = x - f(x) / f'(x)
-    factorNewton = factorNewton - (((factorNewton ** 12) - 2) / (12 * (factorNewton ** 11)))
-}
+// calculate factor, in different ways
 
 // https://en.wikipedia.org/wiki/Bisection_method
 function bisection(f, a, b, maxError) {
@@ -27,15 +18,48 @@ function bisection(f, a, b, maxError) {
         return c;
     }
 }
-const factorBisection = bisection($ => Math.pow($, 12) - 2, 0, 3, 1e-5)
 
-console.log(factorNewton.toFixed(5));
+// https://en.wikipedia.org/wiki/Secant_method
+function secant(f, x0, x1, maxError) {
+    for (let i = 0; i < 100; i += 1) {
+        const fx1 = f(x1);
+        const xn = x1 - f(x1) / ((f(x1) - f(x0)) / (x1 - x0));
+        if (Math.abs(fx1) < maxError) {
+            return xn;
+        }
+        [x0, x1] = [x1, xn];
+    }
+}
+
+// https://en.wikipedia.org/wiki/Newton%27s_method
+function newton(f, f1, initialApproximation, maxError) {
+    let x = initialApproximation;
+    while (true) {
+        // xn = x - f(x) / f'(x)
+        const fx = f(x);
+        if (Math.abs(fx) < maxError) {
+            break;
+        }
+        const f1x = f1(x);
+        x -= fx / f1x;
+    }
+    return x;
+}
+
+const factorPow = Math.pow(2, 1 / 12); // 12th root
+const factorBisection = bisection($ => Math.pow($, 12) - 2, 0, 3, 1e-5);
+const factorSecant = secant($ => Math.pow($, 12) - 2, 1, 3, 1e-5);
+const factorNewton = newton($ => Math.pow($, 12) - 2, $ => 12 * ($ ** 11), 1, 1e-5);
+
+
 console.log(factorPow.toFixed(5));
 console.log(factorBisection.toFixed(5));
+console.log(factorSecant.toFixed(5));
+console.log(factorNewton.toFixed(5));
 
 const factor = factorPow;
 
-// check if result is correct, in three different ways
+// check if result is correct, in different ways
 
 var productMultiply = 1.0;
 for (var i = 0; i < 12; i += 1) {
