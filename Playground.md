@@ -11,7 +11,7 @@ See [README](README.md)
 
 ## Debian
 
-| Language    | Webpages                                                                                                 |
+| Language    | Commands                                                                                                 |
 | ----------- | -------------------------------------------------------------------------------------------------------- |
 | C# (6.0+)   | `apt install dotnet-sdk-6.0` <br> `dotnet tool install -g dotnet-script` <br> `dotnet script ./story.cs` |
 | C++         | `apt install g++` <br> `g++ story.cpp -o story && ./story`                                               |
@@ -27,4 +27,4 @@ See [README](README.md)
 | Ruby        | `apt install ruby` <br> `ruby story.rb`                                                                  |
 | Rust        | `apt install rustc` <br> `rustc story.rs && ./story`                                                     |
 | Swift       | https://www.swift.org/download/                                                                          |
-| Type Script | `apt install nodejs` <br> `npx ts-node Poseidons_Ice_Cubes.ts`                                           |
+| Type Script | `apt install nodejs` <br> `npx ts-node story.ts`                                                         |
