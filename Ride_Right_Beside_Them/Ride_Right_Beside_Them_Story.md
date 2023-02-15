@@ -44,7 +44,7 @@ which letters the lost group hears.
 
 Non-Codable question: What are the (pop culture) references in the story?
 
-Values of Letters:
+## Values of Letters
 
 - A = 10 m
 - B = 20 m
@@ -53,7 +53,7 @@ Values of Letters:
 - ...
 - Z = 260 m
 
-List of Street Names:
+## Street Names
 
 ```
 Egame Street
@@ -73,19 +73,25 @@ Stack Overflowed Way
 Roaming Street
 ```
 
-Documentation: Print Riding Kilometers
+## Questions
+
+### How long is Egame Street?
 
 - Egame Street = E+G+A+M+E+S+T+R+E+E+T = 50 m + 70 m + 10 m + etc. ...
 - Branch Road = B+R+A+N+C+H+E+R+O+A+D = 20 m + 180 m + 10 m + etc. ...
 - ...
 
-How long is `Egame Street`?
-
 <div data-solution="1180"></div>
 
-How long is `Stack Overflowed Way`?
+### How long is Stack Overflowed Way?
 
 <div data-solution="2280"></div>
+
+### How long are all streets together?
+
+<div data-solution="21320"></div>
+
+### What sentence is hidden?
 
 If every second letter is printed out, what is the result?
 
