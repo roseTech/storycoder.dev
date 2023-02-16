@@ -72,8 +72,20 @@ How do you think people 1000 years from now will look at artificial intelligence
 
 ## Print
 
-Number of big fish, medium fish and small fish needed
-for every explorer to have least 117 pieces of big fish, medium fish and small fish.
+Number of big fish, medium fish and small fish needed for every explorer to have
+least 117 pieces of big fish, medium fish and small fish.
+
+How many big fishes?
+
+<div data-solution="188"></div>
+
+How many pieces of big fishes?
+
+<div data-solution="3572"></div>
+
+How many pieces of small fishes?
+
+<div data-solution="940"></div>
 
 ## Start
 
