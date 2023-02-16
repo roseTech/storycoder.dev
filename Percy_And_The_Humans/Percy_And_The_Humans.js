@@ -13,5 +13,6 @@ while (!explorers.every(isSatisfied)) {
     }
 }
 
-console.log(explorers);
-console.log(Object.keys(pieces).map(size => explorers.reduce((acc, current) => acc + current[size], 0)));
+const countSize = (explorers, size) => explorers.reduce((acc, current) => acc + current[size], 0);
+console.log(countSize(explorers, 'big') / pieces.big);
+console.log(Object.keys(pieces).map(size => countSize(explorers, size)));
