@@ -56,3 +56,7 @@ Thank you for the belief that to this day, could I ever go back, I’d do it all
 
 Make a list of all phrases, starting with "Thank you for", followed by the rest
 of the phrase sorted alphabetically.
+
+What is the 12th sentence?
+
+<div data-solution="Thank you for a time when who we were didn’t matter."></div>
