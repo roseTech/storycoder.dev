@@ -24,3 +24,7 @@ this!"
 
 📝 Write a fun, serious, or witty text response to a fictional crush.
 Print your fictional text message.
+
+How man characters does the string "I Love You" have?
+
+<div data-solution="10"></div>
