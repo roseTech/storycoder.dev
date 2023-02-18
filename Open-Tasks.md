@@ -23,6 +23,8 @@ The Front-End currently uses WordPress.
 - [ ] Copy theme from practicecoding.dev
 - [ ] Footer on all posts/stories
 - [ ] Update plugins (this may be a recurring topic)
+- [ ] Create automatically a new story on GitHub, when a new story is submitted via WordPress
+- [ ] SEO
 - [x] Create playground for testing WordPress storycoder.dev -> practicecoding.dev
 
 # Back-End
