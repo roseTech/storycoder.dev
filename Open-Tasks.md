@@ -23,7 +23,8 @@ The Front-End currently uses WordPress.
 - [ ] Copy theme from practicecoding.dev
 - [ ] Footer on all posts/stories
 - [ ] Update plugins (this may be a recurring topic)
-- [ ] Create automatically a new story on GitHub, when a new story is submitted via WordPress
+- [x] When a new story is submitted via WordPress, send an E-Mail which contains Markdown
+- [ ] When a new story is submitted via WordPress, automatically upload the story and pictures to GitHub
 - [ ] SEO
 - [x] Create playground for testing WordPress storycoder.dev -> practicecoding.dev
 
@@ -33,9 +34,9 @@ The Back-End is currently a bunch of JavaScript files, which update WordPress pa
 
 https://github.com/roseTech/storycoder.dev-backend
 
-- [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
 - [ ] Add the possibility to not show all hints at once
 - [ ] Generate https://github.com/neonbjb/tortoise-tts TTS MP3
+- [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
 - [ ] Setup a GitHub action which automatically updates WordPress whenever the main branch of GitHub is updated
 - [ ] Use a bit more styling from the template story from practicecoding.dev
 - [x] Generate https://coqui.ai TTS MP3
