@@ -38,7 +38,8 @@ https://github.com/roseTech/storycoder.dev-backend
 - [ ] Generate https://github.com/neonbjb/tortoise-tts TTS MP3
 - [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
 - [ ] Setup a GitHub action which automatically updates WordPress whenever the main branch of GitHub is updated
-- [ ] Use a bit more styling from the template story from practicecoding.dev
+- [ ] Use more of the styling from the template story from practicecoding.dev
+- [x] Show WordPress API errors, if they happen
 - [x] Generate https://coqui.ai TTS MP3
 - [x] Generate tags within WordPress
 - [x] Upload/link additional images added to stories
