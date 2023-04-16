@@ -27,6 +27,9 @@ Stopping at the last waffle stand before the conference, he couldn’t resist, h
 # Question:
 “If you help me solve the following problem, you can have a free waffle with any toppings you want. Okay, here is the issue: In about an hour, 30 famous open source programmers will be standing in line here for a waffle. I want to decorate special waffles for them with their names on them. The names shall be written with fine Belgian chocolate letters that I bought. I bought six sets of letters (each set has 26 letters of the English Alphabet). I probably won’t have enough letters to write all their names. In which order shall the programmers stand in line for me to be able to inscribe as many waffles as possible? Here are the programmers’ names":
 
+# Answer:
+<div data-solution="???"></div>
+
 Dennis, Aaron, Donald, Tim, Bjarne, Linus, Guido, James, Richard, Brian, Grace, Alan, Niklaus, Guy, Fabrice, Donald, Ken, John, Eric, Anders, Alexander, Charles, Alan, Ronald, Andrew, Leslie, Edsger, John, Keith, Barbara,
 
 Daryll, the donkey, managed to solve the problem. After solving the problem and many distractions on the way, Daryll has reached the conference venue. When he finally arrived, he was awestruck by the sight of hundreds of people gathered to learn and share their knowledge of technology.
