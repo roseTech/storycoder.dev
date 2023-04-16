@@ -24,7 +24,7 @@ The journey was long and tiring, but Darryl was determined to reach his goal. He
 
 Stopping at the last waffle stand before the conference, he couldn’t resist, he desperately wanted one. Since he doesn’t produce nor possess any money anymore to buy a waffle, the waffle seller gave him another option: 
 
-# Question:
+# Codable Question:
 “If you help me solve the following problem, you can have a free waffle with any toppings you want. Okay, here is the issue: In about an hour, 30 famous open source programmers will be standing in line here for a waffle. I want to decorate special waffles for them with their names on them. The names shall be written with fine Belgian chocolate letters that I bought. I bought six sets of letters (each set has 26 letters of the English Alphabet). I probably won’t have enough letters to write all their names. In which order shall the programmers stand in line for me to be able to inscribe as many waffles as possible? Here are the programmers’ names":
 
 Dennis, Aaron, Donald, Tim, Bjarne, Linus, Guido, James, Richard, Brian, Grace, Alan, Niklaus, Guy, Fabrice, Donald, Ken, John, Eric, Anders, Alexander, Charles, Alan, Ronald, Andrew, Leslie, Edsger, John, Keith, Barbara
