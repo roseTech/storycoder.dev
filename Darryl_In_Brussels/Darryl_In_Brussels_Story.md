@@ -27,7 +27,7 @@ Stopping at the last waffle stand before the conference, he couldn’t resist, h
 # Codable Questions:
 “If you help me solve the following problem, you can have a free waffle with any toppings you like. Okay, here is the issue: In about an hour, 30 famous open source programmers will be standing in line here for a waffle. I want to decorate special waffles for them with their names on them: One name per waffle. The names shall be written with fine Belgian chocolate letters that I bought. I bought six sets of letters (each set has 26 letters of the English Alphabet). I probably won’t have enough letters to write all their names. 
 1) After which person in the below fixed line of programmers will I not be able to continue writing their names anymore?
-2) After said person, if I'm allowed to skipp people, which names, still following below order, can I still write?
+2) After said person, if I'm allowed to skip people, which names, still following below order, can I still write?
 
 Line of programmers: Dennis, Aaron, Donald, Tim, Bjarne, Linus, Guido, James, Richard, Brian, Grace, Alan, Niklaus, Guy, Fabrice, Donald, Ken, John, Eric, Anders, Alexander, Charles, Alan, Ronald, Andrew, Leslie, Edsger, John, Keith, Barbara
 
