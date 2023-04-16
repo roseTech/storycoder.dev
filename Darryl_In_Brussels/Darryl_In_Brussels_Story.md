@@ -39,6 +39,6 @@ Darryl was able to attend various talks and workshops, and he was amazed by the 
 At the end of the conference, Darryl was inspired to continue his journey of learning. He left the conference with a newfound appreciation for open-source technology and a desire to contribute to the community.
 From that day on, Darryl was known as the tech-savvy donkey and was sought after for his knowledge and expertise. He continued to attend tech events and spread his love of technology to others, inspiring a new generation of tech-enthusiasts. He may not produce money nor have his old, superficial friends anymore, but he gained the love for technology and many new real friends, to which he connected in an alternative, federated social network :-). 
 
-# Additional non-codable question: 
+# Additional non-codable questions: 
 1) Can you guess the full names of the famous programmers?
 2) What is the name of the conference that Darryl went to?
