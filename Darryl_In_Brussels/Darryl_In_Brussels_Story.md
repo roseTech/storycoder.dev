@@ -29,10 +29,13 @@ Stopping at the last waffle stand before the conference, he couldn’t resist, h
 
 Dennis, Aaron, Donald, Tim, Bjarne, Linus, Guido, James, Richard, Brian, Grace, Alan, Niklaus, Guy, Fabrice, Donald, Ken, John, Eric, Anders, Alexander, Charles, Alan, Ronald, Andrew, Leslie, Edsger, John, Keith, Barbara
 
-# Answer:
+# Answer: ?
 <div data-solution="???"></div>
 
-Daryll, the donkey, managed to solve the problem. After solving the problem and many distractions on the way, Daryll has reached the conference venue. When he finally arrived, he was awestruck by the sight of hundreds of people gathered to learn and share their knowledge of technology.
+Darryll, the donkey, managed to solve the problem. After solving the problem and many distractions on the way, Daryll has reached the conference venue. When he finally arrived, he was awestruck by the sight of hundreds of people gathered to learn and share their knowledge of technology.
 Darryl was able to attend various talks and workshops, and he was amazed by the wealth of information and the passion of the attendees. He also met many other animals who shared his love for technology, and he was happy to make new friends.
 At the end of the conference, Darryl was inspired to continue his journey of learning. He left the conference with a newfound appreciation for open-source technology and a desire to contribute to the community.
 From that day on, Darryl was known as the tech-savvy donkey and was sought after for his knowledge and expertise. He continued to attend tech events and spread his love of technology to others, inspiring a new generation of tech-enthusiasts. He may not produce many or have his old, superficial friends anymore, but he gained the love for technology and many new real friends.
+
+# Additional non-codable question: 
+1) Can you guess the full names of the famous programmers?
