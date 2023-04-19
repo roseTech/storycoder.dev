@@ -7,8 +7,8 @@ Story Content: Heist, Knapsack, Backpack, Justice
 Story Genre: heist, murder, mystery
 Author: Vwing, Versatile Techie, MD and Chat GPT 3, adapted by StoryCoder.dev
 Story License: CC BY-NC-SA 4.0 International
-Image License:
-Image Source:
+Image License: CC BY-NC-SA 4.0 International
+Image Source: Invoke AI - Stable Diffusion 1.5
 Language: en
 ---
 
