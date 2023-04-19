@@ -17,14 +17,14 @@ Something everyone can do all the time:
 
 The Front-End currently uses WordPress.
 
-- [ ] Overview for all stories
+- [ ] Create an overview for all stories, where all stories are visible
 - [ ] Remove the old stories which were depending on WooCommerce
 - [ ] Disable/uninstall unnecessary plugins (WooCommerce, ...)
 - [ ] Copy theme from practicecoding.dev
-- [ ] Footer on all posts/stories
+- [ ] Footer which is visible on all posts/stories
 - [ ] Update plugins (this may be a recurring topic)
 - [x] When a new story is submitted via WordPress, send an E-Mail which contains Markdown
-- [ ] When a new story is submitted via WordPress, automatically upload the story and pictures to GitHub
+- [ ] When a new story is submitted via WordPress, automatically upload the story and pictures to GitHub (maybe should be discussed if this is a good idea, to do this automatically, as this can be missused)
 - [ ] SEO
 - [x] Create playground for testing WordPress storycoder.dev -> practicecoding.dev
 
@@ -35,10 +35,10 @@ The Back-End is currently a bunch of JavaScript files, which update WordPress pa
 https://github.com/roseTech/storycoder.dev-backend
 
 - [ ] Add the possibility to not show all hints at once
-- [ ] Generate https://github.com/neonbjb/tortoise-tts TTS MP3
 - [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
-- [ ] Setup a GitHub action which automatically updates WordPress whenever the main branch of GitHub is updated
+- [ ] Setup a GitHub action which automatically updates WordPress whenever the main branch of GitHub is updated (is in progress 2023-04-19, no help needed at the moment)
 - [ ] Use more of the styling from the template story from practicecoding.dev
+- [x] Generate https://github.com/neonbjb/tortoise-tts TTS MP3 (cancelled/postponed, see tts2mp3 in backend)
 - [x] Show WordPress API errors, if they happen
 - [x] Generate https://coqui.ai TTS MP3
 - [x] Generate tags within WordPress
