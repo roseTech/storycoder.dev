@@ -1,39 +1,34 @@
 
 const NAMES = 'Dennis, Aaron, Donald, Tim, Bjarne, Linus, Guido, James, Richard, Brian, Grace, Alan, Niklaus, Guy, Fabrice, Donald, Ken, John, Eric, Anders, Alexander, Charles, Alan, Ronald, Andrew, Leslie, Edsger, John, Keith, Barbara'.toUpperCase().split(', ');
-const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
-const ZERO = Object.fromEntries(ALPHABET.split('').map(char => [char, 0]));
 
 function moreThanFive(letters) {
     return Object.values(letters).some(count => count > 5);
 }
 
 function countLetters(letters, name) {
-    name.split('').forEach(char => letters[char] += 1);
-    return letters;
+    const result = { ...letters };
+    name.split('').forEach(char => result[char] = (result[char] || 0) + 1);
+    return result;
 }
 
 function findFirstNonWritableName() {
-    const letters = { ...ZERO };
-    for (const nameIndex in NAMES) {
-        countLetters(letters, NAMES[nameIndex]);
-        if (moreThanFive(letters)) {
-            return nameIndex;
-        }
-    }
+    let letters = {};
+    return NAMES.findIndex(name => {
+        letters = countLetters(letters, name);
+        return moreThanFive(letters);
+    });
 }
 
 function countWritableNames() {
-    let letters = { ...ZERO };
-    let count = 0;
-    for (const name of NAMES) {
-        const newLetters = countLetters({ ...letters }, name);
+    let letters = {};
+    return NAMES.reduce((count, name) => {
+        const newLetters = countLetters(letters, name);
         if (!moreThanFive(newLetters)) {
             letters = newLetters;
             count += 1;
         }
-    }
-    return count;
+        return count;
+    }, 0);
 }
 
 console.log(findFirstNonWritableName());
