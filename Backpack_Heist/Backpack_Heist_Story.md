@@ -1,6 +1,6 @@
 ---
 Coding Level: advanced
-Coding Ideas: increment, decrement, difference
+Coding Ideas: increment, decrement, difference, optimization, search
 Category: story
 Title: backpack heist
 Story Content: Heist, Knapsack, Backpack, Justice
@@ -39,7 +39,24 @@ front of her, the parrot suddenly squawked, "Tama! Aaaaaah!" Shadow was taken
 aback by the parrot's sudden outburst and recognized the name Tama, one of the
 tribe council members. She also realized that the parrot had imitated the scream
 of Mr. Body. Very intriguing. Shadow realized the parrot was indeed evidence for
-the murder, and gave it a value of 0.5. The parrot weighed 2 lbs.
+the murder, and gave it a value of 0.6. The parrot weighed 2 lbs.
 
 Which items should Shadow bring back with her? Justice for the tribe depends on
 you!
+
+The items are:
+
+- Weapon
+- CCTV
+- Clothing
+- Laptop
+- Parrot
+
+For the solution, sort the items by weight (heaviest first) and concatenate the
+names of the items into one string.
+
+<div data-solution="ClothingParrotWeapon"></div>
+
+Hints:
+
+- While all the weight are given in pounds, it doesn't matter for this riddle
