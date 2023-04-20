@@ -1,14 +1,14 @@
 ---
 Coding Level: medium
-Coding Ideas: order, loop for,
+Coding Ideas: order, loop, letters
 Category: story
 Title: Darryl in Brussels 
 Story Content: open source, conference, Brussels, wafffles, donkey
 Story Genre: descriptive
 Author: Lilly-Elaia-ReedCode, adapted by StoryCoder.dev
 Story License: CC BY-NC-SA 4.0 International
-Image License:
-Image Source:
+Image License: CC BY-NC-SA 4.0 International
+Image Source: Invoke AI - Stable Diffusion 1.5
 Language: en
 ---
 
