@@ -2,7 +2,7 @@
 Coding Level: advanced
 Coding Ideas: increment, decrement, difference, optimization, search
 Category: story
-Title: backpack heist
+Title: Backpack Heist
 Story Content: Heist, Knapsack, Backpack, Justice
 Story Genre: heist, murder, mystery
 Author: Vwing, Versatile Techie, MD and Chat GPT 3, adapted by StoryCoder.dev
