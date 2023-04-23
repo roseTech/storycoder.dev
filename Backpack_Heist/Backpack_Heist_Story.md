@@ -55,7 +55,7 @@ The items are:
 For the solution, sort the items by weight (heaviest first) and concatenate the
 names of the items into one string.
 
-<div data-solution="ClothingParrotWeapon"></div>
+<div data-solution="ClothingWeaponParrot"></div>
 
 Hints:
 

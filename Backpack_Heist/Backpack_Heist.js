@@ -32,4 +32,4 @@ function f(items) {
 
 const best = optimize(combinationsAll(ITEMS), f);
 
-console.log(best.map($ => $.name).sort().join(''));
+console.log(best.sort((a, b) => a.weight >= b.weight ? -1 : 1).map($ => $.name).join(''));
