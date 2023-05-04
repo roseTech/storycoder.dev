@@ -9,6 +9,7 @@ Author: Frau Blau
 Story License: CC BY-NC-SA 4.0 International
 Image License: CC BY-NC-SA 4.0 International
 Image Source: Invoke AI - Stable Diffusion 1.5
+Audio Source: Coqui TTS https://github.com/coqui-ai/TTS
 Language: de
 ---
 

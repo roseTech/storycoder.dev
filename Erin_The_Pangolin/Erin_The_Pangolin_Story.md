@@ -9,6 +9,7 @@ Author: Noctiluca
 Story License: CC BY-NC-SA 4.0 International
 Image License:
 Image Source:
+Audio Source: Coqui TTS https://github.com/coqui-ai/TTS
 Language: en
 ---
 
