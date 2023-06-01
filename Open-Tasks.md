@@ -12,12 +12,14 @@ Something everyone can do all the time:
 - [ ] Add a few hints to all stories
 - [ ] Proofread at least all stories once
 - [ ] Check if the existing scripts, really solve the problem correctly, according to the solution in the story (if not get in contact with the author, try to fix it, or if not possible, delete the solution after a grace period)
+- [ ] Rate content according to a common used rating
 
 # Front-End
 
 The Front-End currently uses WordPress.
 
 - [ ] Create an overview for all stories, where all stories are visible
+- [ ] Allow filtering for tags
 - [ ] Remove the old stories which were depending on WooCommerce
 - [ ] Disable/uninstall unnecessary plugins (WooCommerce, ...)
 - [ ] Copy theme from practicecoding.dev
