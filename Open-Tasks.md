@@ -12,12 +12,13 @@ Something everyone can do all the time:
 - [ ] Add a few hints to all stories
 - [ ] Proofread at least all stories once
 - [ ] Check if the existing scripts, really solve the problem correctly, according to the solution in the story (if not get in contact with the author, try to fix it, or if not possible, delete the solution after a grace period)
-- [ ] Rate content according to a common used rating
+- [ ] Age rate content according to a common used rating (e.g. )
 
 # Front-End
 
 The Front-End currently uses WordPress.
 
+- [ ] Add a story rating system, but instead of regular god/bad, use a sentiment system (story was funny, story made me sad, ...)
 - [ ] Create an overview for all stories, where all stories are visible
 - [ ] Allow filtering for tags
 - [ ] Remove the old stories which were depending on WooCommerce
@@ -26,9 +27,9 @@ The Front-End currently uses WordPress.
 - [ ] Footer which is visible on all posts/stories
 - [ ] Update plugins (this may be a recurring topic)
 - [x] When a new story is submitted via WordPress, send an E-Mail which contains Markdown
-- [ ] When a new story is submitted via WordPress, automatically upload the story and pictures to GitHub (maybe should be discussed if this is a good idea, to do this automatically, as this can be misused)
+- [ ] When a new story is submitted via WordPress, automatically upload the story and pictures to GitHub (should be discussed if this is a good idea, to do this automatically, as this can be misused)
 - [ ] SEO
-- [x] Create playground for testing WordPress storycoder.dev -> practicecoding.dev
+- [x] Create a playground for testing WordPress storycoder.dev -> practicecoding.dev
 
 # Back-End
 
@@ -38,7 +39,6 @@ https://github.com/roseTech/storycoder.dev-backend
 
 - [ ] Add the possibility to not show all hints at once
 - [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
-- [ ] Use more of the styling from the template story from practicecoding.dev
 - [x] Add reference to used TTS engine on every story
 - [x] Setup a GitHub action which automatically updates WordPress whenever the main branch of GitHub is updated
 - [x] Generate https://github.com/neonbjb/tortoise-tts TTS MP3 (cancelled/postponed, see tts2mp3 in backend)
