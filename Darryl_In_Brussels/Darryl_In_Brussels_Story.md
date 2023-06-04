@@ -2,7 +2,7 @@
 Coding Level: medium
 Coding Ideas: order, loop, letters
 Category: story
-Title: Darryl in Brussels 
+Title: Darryl in Brussels
 Story Content: open source, conference, Brussels, wafffles, donkey
 Story Genre: descriptive
 Author: Lilly-Elaia-ReedCode, adapted by StoryCoder.dev
@@ -10,21 +10,22 @@ Story License: CC BY-NC-SA 4.0 International
 Image License: CC BY-NC-SA 4.0 International
 Image Source: Invoke AI - Stable Diffusion 1.5
 Audio Source: Coqui TTS https://github.com/coqui-ai/TTS
+Parental Rating: 6+
 Language: en
 ---
 
-# Darryl in Brussels 
+# Darryl in Brussels
 
 Darryl, the donkey, used to be really famous, on social media, among his mates,
 he was the star of his family basically. Everyone adored him, worshipped him in
 extravagant spheres. He of course, went along with it, he proudly marched
 through the fields, the city, the farms, people bowed at him, animals bowed at
-him. Yes he was truly a hero for them. 
+him. Yes he was truly a hero for them.
 
 But one day, out of nothing, he lost his ability to produce money in his
 stomach! No coins 🪙 ever came out of him again. He started to feel sick, but
 not because his belly stopped creating money, but because his previously adored
-family and friends stopped caring about him, turned away from him. 
+family and friends stopped caring about him, turned away from him.
 
 Darryl felt lonely, and useless. He was strolling pensively along the trottwar,
 as he stumbled upon an advertisement for an open source tech conference. Excited
@@ -44,7 +45,7 @@ he could resist the Belgian chocolate, too.
 
 Stopping at the last waffle stand before the conference, he couldn’t resist, he
 desperately wanted one. Since he doesn’t produce nor possess any money anymore
-to buy a waffle, the waffle seller gave him another option: 
+to buy a waffle, the waffle seller gave him another option:
 
 # Codable Questions
 
@@ -54,7 +55,7 @@ source programmers will be standing in line here for a waffle. I want to
 decorate special waffles for them with their names on them: One name per waffle.
 The names shall be written with fine Belgian chocolate letters that I bought. I
 bought six sets of letters (each set has 26 letters of the English Alphabet). I
-probably won’t have enough letters to write all their names. 
+probably won’t have enough letters to write all their names.
 
 After which person (Denis is the 1, Aaron the 2, ...) in the below
 fixed line of programmers will I not be able to continue writing their names
@@ -94,9 +95,9 @@ for his knowledge and expertise. He continued to attend tech events and spread
 his love of technology to others, inspiring a new generation of
 tech-enthusiasts. He may not produce money nor have his old, superficial friends
 anymore, but he gained the love for technology and many new real friends, to
-which he connected in an alternative, federated social network :-). 
+which he connected in an alternative, federated social network :-).
 
-# Additional non-codable questions: 
+# Additional non-codable questions:
 
 1) Can you guess the full names of the famous programmers?
 2) What is the name of the conference that Darryl went to?

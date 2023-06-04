@@ -10,6 +10,7 @@ Story License: CC BY-NC-SA 4.0 International
 Image License:
 Image Source:
 Audio Source: Coqui TTS https://github.com/coqui-ai/TTS
+Parental Rating: 6+
 Language: en
 ---
 
@@ -57,4 +58,3 @@ Difference = 3
 Additional non-codable question: To what famous poem does this poem allude to?
 
 //Answer: 1
-

@@ -10,6 +10,7 @@ Story License: CC BY-NC-SA 4.0 International
 Image License:
 Image Source:
 Audio Source: Coqui TTS https://github.com/coqui-ai/TTS
+Parental Rating: 6+
 Language: en
 ---
 
@@ -69,7 +70,7 @@ Documentation:
   another another bread roll without the king in it.
 - Next round: We do the same: You pick another bread roll (not the same as
   before), and the croissant monster once again takes away another bread roll
-  without the king in it. 
+  without the king in it.
 - Next round: And the rounds continue like this.
 
 Question: How many rounds do have to pass for you to have at least a 50 % chance
