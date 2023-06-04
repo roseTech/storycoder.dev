@@ -18,9 +18,9 @@ Something everyone can do all the time:
 
 The Front-End currently uses WordPress.
 
-- [ ] Add a story rating system, but instead of regular god/bad, use a sentiment system (story was funny, story made me sad, ...)
-- [ ] Create an overview for all stories, where all stories are visible
-- [ ] Allow filtering for tags
+- [x] Add a story rating system, but instead of regular god/bad, use a sentiment system (story was funny, story made me sad, ...)
+- [ ] Create an overview for all stories, where all stories are visible (currently only accessible manually via https://storycoder.dev/?post_type=post)
+- [ ] Allow filtering for tags (currently only accessible manually via https://storycoder.dev/tag/beginner/)
 - [ ] Remove the old stories which were depending on WooCommerce
 - [ ] Disable/uninstall unnecessary plugins (WooCommerce, ...)
 - [ ] Copy theme from practicecoding.dev
@@ -37,6 +37,7 @@ The Back-End is currently a bunch of JavaScript files, which update WordPress pa
 
 https://github.com/roseTech/storycoder.dev-backend
 
+- [ ] Show for which languages already a solution exists
 - [ ] Add the possibility to not show all hints at once
 - [ ] Update certain WordPress Pages automatically from GitHub (has to be decided which ones)
 - [x] Add reference to used TTS engine on every story
