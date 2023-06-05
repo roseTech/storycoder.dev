@@ -32,4 +32,4 @@ is not allowed. Seidon is the temperature unit of the sea. 1 Seidon divided by
 Print the water temperature 🌡️ in both entities with max two fraction digit
 with an equation on a normal, ice-cube free day!
 
-<div data-solution="18.59"></div>
+<div data-solution="43ca0e16f70e549f5c673c57e1a1ff2d1034503ac1babf35da67914b1bf37f4b"></div>
